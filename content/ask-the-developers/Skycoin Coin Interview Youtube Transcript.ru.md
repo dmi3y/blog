@@ -1,42 +1,48 @@
 +++
-title = "Skycoin Coin Interview Youtube Transcript"
+title = "Skycoin - Coin Интервью Youtube транскрипт"
 tags = [
 ]
 date = "2017-11-25"
 categories = [
     "Ask the Developers",
 ]
-description = "Log of Interview with Synth from Skycoin, held live on Coin Interview's youtube channel (from 2017-10-30)"
+description = "Транскрипт интервью с Synth представителем Skycoin, проводимого youtube каналом Coin Интервью (от 2017-10-30)"
 +++
 
 *originally held October 30, 2017 on the Coin Interview youtube channel (https://www.youtube.com/watch?v=BuY5IbkkbXg)*
+*Запись интервью проводимого 30 Октября 2017 youtube каналом Coin Интервью (https://www.youtube.com/watch?v=BuY5IbkkbXg)*
 
-*synth is the skycoin representative in this AMA.
-christian and evan are the interviewers*
-
-**christian**
-We're talking to Synth, one of the lead project managers from Skyledger, Skycoin, you know what it is. Just wanted to announce the fact that we still have support from ark.io. If you're interested in sponsoring the show let us know.
-
-**synth**
-Love Ark.
+*Интервью в формате "спрашивайте что хотите",
+synth представитель skycoin.
+christian и evan задают вопросы*
 
 **christian**
-Those guys are cool.
+Мы на связи с Synth, одним из ведущих проект менеджеров Skyledger, Skycoin, ну и вы в курсе что это. Так же хотел подчеркнуть наших спонсоров, это ark.io. Дайте нам знать если вы заинтересованы в поддержке канала.
 
 **synth**
-Yea they helped us out a lot and the Lisk guys too.
+Обожаю Ark.
 
 **christian**
-Yea, I haven't had Max on the show yet. I dont even know what Lisk is doing, but let's not talk about Lisk let's talk about Skycoin right now. They're going to come on the show eventually. We need to make a big list of all the projects that havent been on yet or something.
+Эти пацаны круты.
 
 **synth**
-We are working with the bitseed Mike guy, I think we might be sharing a factory in Shenzen, the Ark guy. He has the bitseed boxes for Ethereum and Bitcoin, we are going to do that for Skycoin, for hardware.
+Да они много нам помогали и ребята из Lisk-а тоже.
 
 **christian**
-You want to tell us what Skycoin is? For the people who don’t know. It’s a new blockchain? Is it a blockchain?
+Точно, я еще не приводил Макса на шоу. Я даже не знаю для чего Lisk нужен, но давай отложим Lisk на потом, давай сейчас поговорим о Skycoin. Рано или поздно мы приведем их на шоу. Нам нужно составить большой список всех проектов которые мы еще не освещали, ну или что то типа того.
 
 **synth**
-Well it’s not new, it’s been around for about six years. So basically, when Bitcoin came out there were a lot of the early Bitcoin people who did the audit on Bitcoin. They were brought in by these financial service firms and they wanted to know is this going to work? Do these algorithms work? Are there problems? If I put money in this am I going to lose it? Is it like a house of cards that is going to fall over tomorrow? So they wanted to know more about Bitcoin and they wanted it audited at a code level and at a cryptographic level. So a lot of people, including the early Skycoin developers were sent in to do this and we looked at it and we found all these problems. There were about three or four different groups that were trying to fix Bitcoin. So we came in and we ended up spending the next six years rewriting the whole thing from scratch like three times. There were things like duplicate coinbase outputs. You have a transaction and a transaction creates an output and the output is what you spend in the transaction. You could have two outputs that had the same hash, so Bitcoin had hash collisions in it. Like Satoshi got 90% right, but there was about 10% that was sort of wonky. So, we fixed duplicate coinbase outputs, signature mutability, transaction mutability, and other issues like that and then later on the consensus algorithm in Bitcoin became a problem. This was around the time of gigahash.io. There was a group of friends in this little city in northern Ukraine who all got involved in Bitcoin very early. One of them started a mining pool, another started a company producing Bitcoin mining hardware, and another started exchanges like BTC-E; so this group of friends had their own mini Bitcoin industry. Gigahash.io ended up controlling over 60-70% of the total mining power for Bitcoin. So we had the Bitcoin network running for years on one single mining pool. They were hiding their hashing power in other mining pools basically because they realized it looked bad if they said that they had over 60% of the network.
+Мы работаем с bitseed, Майк его звать, я думаю мы даже разделяем производство на фабрике в Шэньчжэнь, это представитель от Ark. Он собирает bitseed оборудование для Ethereum и Bitcoin, мы собираемся выпускать подобные для Skycoin, как железо.
+
+**christian**
+Хочешь нам рассказать о Skycoin? Для людей кто не в курсе. Это новый блокчейн? Это вообще блокчейн?
+
+**synth**
+Ну, наш проект не новый, ему уже где то шесть лет. В общем, когда Bitcoin появился было много ранних Bitcoin адептов которые делали аудит сети Bitcoin. Они пришли со стороны фирм занимающихся финансовыми операциями, фирм которым было интересно - Как это вообще работает? Работоспособны ли эти алгоритмы? Какие есть подводные камни? Если положить деньги в сеть, будут ли они потеряны? Не карточный ли это домик, который развалится завтра?
+В общем эти все эти люди желали знать больше о Bitcoin и хотели провести полный аудит как на уровне кода так и на криптографическом уровне. И много народа было вовлечено, включая ранних Skycoin разработчиков, и мы просматривая исходники находили проблемный функционал. Существовало три или четыре различных групп которые пытались исправить Bitcoin. И так мы начали и потратили следующие шесть лет на то что бы переписать все с нуля, три раза.
+Были такие вещи как дупликация выпускаемых монет. У вас есть транзакция которая создает монеты и собственно сама транзакция которая отвечает за перевод. И получалось так что сеть создавала две одинаковые транзакции на выпуск монет, две транзакции имеющих одинаковый хэш, и таким образом сеть Bitcoin страдала от хэш коллизий. 90% работы Сатоши исключительна, но где от 10% хотелось плакать. И мы исправили дупликацию выпускаемых монет, возможность подмены подписи, подмены транзакций, и другие проблемы того времени, и позже нашлись проблемы в консенсус алгоритме.
+Где то в это время появился gigahash.io. Это была группа друзей в маленьком городе на севере Украины которые все были вовлечены в только что зарождающийся Bitcoin бизнес. Один из них запустил майнинг пул, другой основал компанию по производству железа для майнинга, третий открыл онлайн обменку BTC-E, и так эта группа друзей создала собственную небольшую Bitcoin индустрию.
+Gigahash.io удалось взять под контроль выше 60-70% всех майнинг ресурсов Bitcoin. И так, вся сеть Bitcoin годами находилась под контролем одного майнинг пула. Они скрывали хэш ресурсы под видом других майнинг пулов, так как они поняли что это будет выглядеть не очень хорошо если они огласят что  они держат под своим контролем свыше 60% сети.
 
 **synth**
 With Proof of Work, Satoshi originally wanted it to decentralize the Bitcoin network over hundreds of thousands of computers located in different countries, but what has happened is the mining network is now three mining pools in China. So Bitcoin is not decentralized, at all, it is very centralized. And there is only one producer now of ASIC mining hardware for Bitcoin so it is even more centralized. So we wanted to fix the consensus algorithm and that was a huge, huge, huge research project that took like three years. Skycoin started out just improving the Bitcoin blockchain and building Bitcoin into a mature technology that would be usable because Bitcoin still has a lot of rough edges. Over time, the project just expanded and expanded. Now, we have around fifteen development teams working on different projects. So when you say what is Skycoin, well, we have the blockchain, we have a consensus algorithm [obelisk], we now have a programming language called CX, which I wouldn’t call a smart contract language because I think smart contracts are bullshit, but this is an actual programming language for applications. CX.Skycoin.net. We have CXO, which is like an immutable data storage library because we realized that blocks and transactions and outputs were all immutable data objects, so we created a whole library to deal with these objects and replicate them; which was a two year project. And then somehow, we ended up getting a mesh network. A distributed telecom provider called Skywire. So, people are running these nodes and they are exchanging packets and getting paid for the bandwidth that they’re providing to their neighbors. So it’s sort of like a ground up community internet on the blockchain, where you are getting paid for providing these services to people. And we have the ability to tunnel VPN over that, so I can hook up a node in shanghai and a node in Hong Kong and a node in Los Angeles and I can do multihop VPN; so I can bounce through five different locations to anonymize the traffic. I can use it for myself but I can also let other people use it and get coins for that. Skywire I think took four years, which was a huge development effort. The reason that Skywire came out was because there was an attack on Bitcoin, where you could attack people’s IP addresses. So if you had a Bitcoin node and you were connecting out to like five IP addresses and the ISP or the NSA controls your cable modem, then they can hijack all the traffic to that IP address; so you don’t even know if you are connected to the actual Bitcoin network. The government can create a fake Bitcoin network with a thousand nodes that they all control and only let you connect to that network; while you think that you are connected to the Bitcoin network and you are not. So there’s this question of how do you determine if you are connected to the real Bitcoin network or if you are connected to a shadow network where the IP addresses are hijacked.
