@@ -49,7 +49,7 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 И с тем что в мире сейчас только один производитель ASIC майнинг оборудования для Bitcoin он еще более централизован под этим углом. Мы хотели исправить консенсус алгоритм и это желание выросло в большой, в огромный исследовательский проект который занял три года. Skycoin начался как просто улучшения над Bitcoin блокчейном и переработку Bitcoin в продуманную технологию которая бы была надежней в использовании, потому что Bitcoin до сих пор имеет много заплаток и костылей.
 Со временем проект развивался и расширялся. И сейчас у нас на руках около пятнадцати команд разработчиков работающих над разными проектами. И когда ты спросил что такое Skycoin, ну, у нас есть блокчейн, у нас есть консенсус алгоритм [обелиск], мы недавно создали язык программирования CX, который я бы не стал называть языком для умных контрактов, потому что, я считаю что умные контракты это ерунда, CX настоящий язык программирования для приложений.
 Это CX.Skycoin.net. У нас есть CXO, библиотека неизменяемого хранилища данных потому что мы осознали что блоки, транзакции и эмиссии были все изменяемыми объектами данных, и так мы создали целую библиотеку для того что бы работать с этими объектами копировать их. И этот проект занял два года. И потом каким то образом, мы умудрились создать сеть ячеистой топологии. Распределенный интернет провайдер который мы назвали Skywire.
-И так, люди обеспечивают сеть рабочими узлами и они обменивают передаваемые пакеты и получают вознаграждение за предоставленную пропускную полосу предоставляемую соседям. И это суть общественного интернета на блокчейне, где вы получаете прибыль за предоставление сервисов людям. И у нас есть возможность запустить VPN туннель по верх этой сети, и так я могу использовать узел в Шанхае, Гон-Конге, Лос-Анджелесе что дает возможность запустить мультиинтервальный VPN который позволит быстро менять положение через пять различных мест и таким образом полностью анонимизировать трафик.
+И так, люди обеспечивают сеть рабочими узлами и они обменивают передаваемые пакеты и получают вознаграждение за предоставленную пропускную полосу предоставляемую соседям. И это суть общественного интернета на блокчейне, где вы получаете прибыль за предоставление сервисов людям. И у нас есть возможность запустить VPN туннель по верх этой сети, и так я могу использовать узел в Шанхае, Гон-Конге, Лос-Анджелесе что дает возможность запустить мульти-интервальный VPN который позволит быстро менять положение через пять различных мест и таким образом полностью анонимизировать трафик.
 Я могу использовать сеть для своих целей, и я могу так же позволить другим людям использовать ее и получать взамен монеты. Разработка Skywire заняла четыре года, я думаю, и это была огромная работа. Причина по которой сеть Skywire увидела свет, это возможность использовать ее для защиты сети Bitcoin от атаки в которой используется IP адреса участников сети.
 Так если вы запустили узел Bitcoin сети и вы подключились к пяти IP адресам и ваш интернет провайдер или служба безопасности контролирует ваш модем, то они могут перехватить весь трафик на эти IP адреса так что вы даже не сможете определить к настоящей ли сети Bitcoin вы подключены.
 Власти могут создать фальшивую сеть Bitcoin с тысячами узлов которые находятся под центральным контролем и они подключат вас к этой сети, а вы будете думать что вы подключены к настоящей Bitcoin сети. И так возник этот вопрос, как определить если сеть к которой вы подключены настоящая сеть Bitcoin или это теневая сеть где IP адреса подделаны.
@@ -57,40 +57,43 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 [пауза для того что бы поправить микрофон]
 
 **christian**
-See this is the stuff that people don’t even realize...
+Гляди-ка, и это то о чем никто даже не догадывается...
 
 **evan**
-Yea that was quite the introduction.
+Ага, это было интересное введение.
 
 **synth**
-So that’s a massive effort, and we are just starting to get that on, people are just starting running these nodes. Since we have these nodes, we need a lot of hardware to run this network. We don’t want people running this on Amazon, so we’re actually producing our own hardware; which should be shipping in about a month. There are pictures on the website and it’s probably going to be open source. Also, we are getting a hardware wallet. We just hired our first Electrical Engineer last week to start working on our hardware wallet. And then, it turns out people started cloning Skycoin and making their own coins so now we have something called Skyledger. So we have fifteen or twenty coins launching on top of Skycoin as a platform. We say it’s like Skycoin’s ERC-20 platform. Basically, we couldn’t stop people from cloning Skycoin and launching their own coins, so we decided to build a coin platform around this.
+И все это заняло массу ресурсов, и мы только подошли к старту, люди начинают запускать узлы. И так как мы используем эти узлы, нам необходимо куча железа для работоспособной сети. Мы не хотим что бы их запускали в облачных сервисах типа Amazon, так что мы занялись выпуском собственного железа, которое будет доступно где то через месяц. У нас на сайте есть описание с фото. И скорее всего, все будет в открытом доступе. В дополнение, мы работаем над хардверным кошельком. На прошлой неделе мы наняли нашего первого инженера электроника который начал работать над этим кошельком.
+И как мы выяснили в дальнейшем, люди начали клонировать Skycoin и создавать свои собственные монеты, и так появился проект Skyledger. На данный момент, мы имеем пятнадцать или двадцать проектов использующих Skycoin в качестве платформы. Мы можем сравнить Skycoin с ERC-20 платформой. И так как мы не можем запретить клонирование Skycoin, мы решили расширить его до уровня платформы с помощью которой можно создавать свои монеты.
 
 **christian**
-So where did the initial funding come from? And how is this project being sustained?
+Откуда у вас деньги изначально? И насколько проект поддерживает себя финансово?
 
 **synth**
-So when we started, Bitcoin was less than like a $1, so we were just... balling [laughs] so we never really needed money.
+Когда мы запустились, Bitcoin был меньше чем $1, ну и мы просто... вкладывались [смех] и мы никогда собственно не нуждались в деньгах.
 
 **christian**
-So there’s no state sponsors there’s no corporate sponsors, there’s no bullshit, there’s just developers? Anonymous developers? Well known public developers?
+То есть, у вас нет правительственного спонсора, корпоративного спонсора, и прочей лабуды, есть просто разработчики? Анонимные разработчики? Известные разработчики?
 
 **synth**
-So we have a lot of anonymous people and a lot of early crypto people. The crypto people are really weird like..
+Да с нами сотрудничает много анонимных людей много из ранних крипто адептов. Эти крипто люди на самом деле странные типы..
 
 **christian**
-Yea I’m sure
+Ага, я могу представить
 
 **synth**
-So Bitcoin has had twelve different generations of people. So the people that you see coming in now are just like, “Get rich quick!!” “Make money while you sleep!!” “Ahh high yield” “This coin pays me 10% per month why am I gonna buy your coin if this coin is paying me... etc.” They’re just in it for the greed. The early people in Bitcoin, the first generation, were really paranoid like crypto anarcho capitalist. They wanted to take out the FED. They were like central banking is slavery and we need to get rid of the central banks and that was really why they were building this thing. You see like, Satoshi, one of the messages he embedded in the blockchain was about this engineered banking crisis, which was like a bunch of banks looting... basically they had a crisis and the response to the crisis was the government printed out 20 trillion dollars and put it in their friends pockets.
+И через Bitcoin за это время прошло двенадцать различных волн. И те люди которые объявились сейчас, они вроде, "Стань богатым быстро!!" "Делай деньги пока спишь!!" "Ах какие высокие дивиденды" "Эта валюта возвращает мне 10% в месяц, зачем я буду вкладывать в вашу если эта валюта приносит больше... и тд."
+Они тут просто из за жадности. Ранние адепты Bitcoin-а, первая волна, они были реальными параноиками типа крипто-анархо-капиталистами. Они хотели свергнуть правительство со спецслужбами. Они считали что центральные банки это рабство и нам нужно избавится от них и это была идея ради которой они строили эту вещь.
+Понимаете, Сатоши, в одном из его сообщений которое он оставил в блокчайне было о том что банковский кризис был специально устроен, это был грабеж устроенный группой банков... по простому, они устроили этот кризис что бы правительство напечатало 20 триллионов долларов в ответ, и они направили эти деньги в карманы своих друзей.
 
 **christian**
-Sure
+Без сомнений
 
 **synth**
-So it’s like, “ohh yea give us twenty trillion dollars or the world’s gonna end tomorrow” [laughs]
+Это было типа, "Ооо да дайте нам двадцать триллионов долларов, или конец мира на завтра" [смех]
 
 **christian**
-Right. Right.
+Конечно. Конечно.
 
 **synth**
 So these people just getting looted by the central banks. So the early Bitcoin people.. Ironically, a lot of them worked for government, so if you’re a crypto person you’re working for huge corporations, working for government, working for people who have money and you have to sign all these NDAs. They were never publicly associated with the Bitcoin project at all. So Bitcoin had a few public faces, but most of the actual people behind Bitcoin were just in the shadows. I went to a Bitcoin conference in Vegas and I would see one of these guys and he would just sit in the corner and watch people. He would just like never talk to anyone, he would sit there like, “Hmmm what’s going on, who’s a scammer etc.” So these people are watching Bitcoin and the direction it is developing in, but they’re not really participating in the community. Then, every six months we have a completely new crowd coming into cryptos and it has been like that for eight years now. I think we’re on like the twentieth generation of crypto people.
