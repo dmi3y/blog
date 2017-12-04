@@ -152,13 +152,13 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 Мы выделяем каждому приложению собственный блокчейн. И наша платформа может запустить миллион блокчейнов и это очень интересно. В Делавере есть закон что если ваша компания, маленькая компания, зарегистрирована в этом штате, то вы можете зарегистрировать сток на блокчейн. И если ваш сток на блокчейн... вроде маленькой пекарни в Делавере и вы открыли компанию и выпустили акции. И люди смогут покупать и продавать ваши доли на блокчейн. Это очень просто и без дополнительных сборов. И вот так небольшая пекарня может стать публично торгуемой компанией которая хочет поднять деньги. Если они захотят продавать акции компании и пекарня будет приносить прибыль, то цена акций может подняться в цене, и это очень интересно, и для этой компании мы сможем выделить собственный блокчейн. Вот ваша собственная биржевая книга, и вам не нужно посредника. Вот ваш блокчейн. Мы можем сделать тоже самое для десяти миллионов других компаний в Делавере и им всем нужны свои блокчейны. Они не хотят быть засунутыми в одну гигантскую кучу со всей информацией мира.
 
 **christian**
-Хорошо, и вы решили эту проблему параллельным запуском блокчейнов, просто создавая дополнительные полосы для увеличения пропускной способности, правильно?
+Хорошо, и вы решили эту проблему параллельным запуском блокчейнов, просто вроде как когда для решения проблем с трафиком создают дополнительные полосы для увеличения пропускной способности, правильно?
 
 **synth**
 Ага
 
 **christian**
-Ok, I see what you’re saying. Ok so, if I spin up my own blockchain, am I spinning up tokens as well for that chain or?
+Отлично, я понял почти все. Но вот, когда я запустил свой блокчейн, это означает что я запустил токены на этом чейне, или как?
 
 **synth**
 So that’s the interesting part, everyone is obsessed with tokens because they can do an ICO and sell tokens and make money, but the blockchain is just a database. It doesn't need to be tokens at all. It can be shipping containers. It can be tracking cars or tracking boxes or tracking the delivery status of a package or tracking parts in a machine and when they need to be replaced. People don’t understand what blockchain is, blockchain is just a database. And when you say blockchain is just a database, they get really depressed because they are like well databases are boring, but that's really what the blockchain is. So most of the applications for corporations are just gonna be the company using the blockchain like a database. Thomas Reuters internally, they don't need a token. It doesn't make sense for them, but they have data they want to store and they have operations on the data that they want to perform. So when you start thinking of blockchain as a database you start getting closer to the real world applications. But if you want to make money you have to have a token so that's why everyone is obsessed with ICOs and the tokens. Because once you have a token, you can put it on the market and you can pump it up and you can speculate which is what they’re doing.
