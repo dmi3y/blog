@@ -90,67 +90,72 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 Без сомнений
 
 **synth**
-Это было типа, "Ооо да дайте нам двадцать триллионов долларов, или конец мира на завтра" [смех]
+Это было типа, "Ооо да, дайте нам двадцать триллионов долларов, или конец мира на завтра" [смех]
 
 **christian**
-Конечно. Конечно.
+Конечно. Так и есть.
 
 **synth**
-So these people just getting looted by the central banks. So the early Bitcoin people.. Ironically, a lot of them worked for government, so if you’re a crypto person you’re working for huge corporations, working for government, working for people who have money and you have to sign all these NDAs. They were never publicly associated with the Bitcoin project at all. So Bitcoin had a few public faces, but most of the actual people behind Bitcoin were just in the shadows. I went to a Bitcoin conference in Vegas and I would see one of these guys and he would just sit in the corner and watch people. He would just like never talk to anyone, he would sit there like, “Hmmm what’s going on, who’s a scammer etc.” So these people are watching Bitcoin and the direction it is developing in, but they’re not really participating in the community. Then, every six months we have a completely new crowd coming into cryptos and it has been like that for eight years now. I think we’re on like the twentieth generation of crypto people.
+Вот так просто, обычные люди были ограблены центральными банками.  И все эти ранние адепты Bitcoin.. Иронично, многие из них работали на власти, работали на людей с большими деньгами и были вынуждены подписывать все эти соглашения о не разглашении. Они не были публично ассоциированы с проектом Bitcoin вообще, никогда. У Bitcoin-а было несколько публичных лиц, но основная масса людей стоящих за проектом стояли в тени. Я был на Bitcoin конференции в Лас Вегасе и видел такой типаж, он просто сидит в углу и наблюдает за всеми. Эти люди не общаются, они просто сидят на месте, типа "Хммм что тут происходит, кто тут обманщик и тому подобное" Вот так эти люди наблюдали за Bitcoin-ом и направлением в котором шла его разработка, но они негде не принимали участия. И вот так, каждые шесть месяцев совершенно новая толпа приходит в крипто сферу и так было на протяжении восьми лет. Я так прикидываю, это уже двенадцатая волна новых людей.
 
 **christian**
-So there’s a lot of developer communities around the world. I got into this only really at the beginning of 2016. I heard about Bitcoin in 2013 but obviously if you don’t know anything about code and what shit actually does and you just read the news, basically 2010 to 2015 was all negative. It’s all like this is all for darknet shit etc. My question would be, there’s a lot of communities... like there are all of these hacker communities like black hat and there are conferences like devcon. Is there a lot of overlap from those security professionals into this fintech/crypto/money thing? That we know as Bitcoin/Skycoin? Or are they really still separate? Like the guys who are hard core into security, are like yea Bitcoin... but like I’m breaking networks etc.
+И много сообществ разработчиков по всему миру. Я вступил на этот путь только в начале 2016. Я слышал о Bitcoin-е в 2013 но конечно если вы не знаете как программировать и что эта фигня на самом деле делает, а просто читаете новости, то просто с 2010 по 2015 все было негативно. Везде было даркнет и прочая фигня. Ну так вот, мой вопрос, есть много сообществ... как все эти сообщества хакеров черные шляпы и все эти конференции типа devcon. Насколько связаны эти специалисты по безопастности с этими финтек/крипто/деньги вещами? Которые мы знаем как Bitcoin/Skycoin? Или они все на деле каждый за себя. Эти парни которые круты в безопасности типа, о да Bitcoin... но я взламываю сети и тому подобное.
 
 **synth**
-They’re not... I wouldn’t say separate. What you have to realize is that the groups are very small. You can look at the group in Ukraine as an interesting example. They were just a bunch of friends in a pub and they hear about Bitcoin and they all buy it at a dollar, well they buy it at a penny and then Bitcoin goes to one hundred dollars, now they’re all rich. So one of them starts a Bitcoin mining pool, Gigahash, one of them starts a Bitcoin exchange, BTC-E, one of them starts a Bitcoin mining company, Starfury, and they have their own internal Bitcoin ecosystem. They were actually the first people to invest in... they were called structured ASICs. They’re like FPGA type mining things. So they were the first people to fund GPU mining, and then first people to switch to FPGA mining, and the first people to do ASIC mining because they had the money and they were interested in this for so long. It was just like a small group of friends. So within the security community, you might have like twenty people who are interested in Bitcoin and who are hard core developers and they’re doing their own thing. I wouldn’t say that the communities are that organized. It’s just like a giant blob of people and there’s a little group inside of that that maybe does this or that.
+Я бы не сказал что... каждый за себя. Нужно понять что эти группы очень маленькие. Вы можете взять эту группу в Украине как интересный пример. Просто кучка друзей собрались в баре, они слышали о Bitcoin и они все купили за доллар, ну они купили за копейки и теперь когда Bitcoin поднялся за сотни долларов, сейчас они все богаты.
+Ну и один запустил майнинг пул, Gigahash, другой Bitcoin объменку, BTC-E, трений компанию по выпуску майнинг оборудования, Starfury, и так они создали свою закрытую Bitcoin экосистему. Они на деле были первыми людьми которые вложились... они предвосхитили структурные интегральные схемы специального назначения (ASIC). Они использовали программируемые пользователем матрицы (FPGA) для майнинга.
+И эти ребята были первыми в разработке майнинга на графических картах (GPU), и затем они переключились на FPGA майнинг, и затем они взялись за ASIC, потому что у них были деньги и они были заинтересованы в этом. И опять, это была небольшая группа друзей. Так в пределах этих сообществ на поруках, может быть двадцать людей которые заинтересованы в Bitcoin и кто супер крутые разработчики, и которые сами себе на уме. И я бы не сказал что эти сообщества очень организованны. Это громадное слабо сформированное сборище людей с небольшими структурами внутри которые занимаются тем или этим.
 
 **christian**
-So when people see something like devcon, they’re like “oh my god these guys can bring down the world” but it’s not really like... it’s just a bunch of people in a room, it’s not like nation state level where they have like 3,000 to 4,000 hackers very organized at the military level.
+И когда люди видят что нибудь типа devcon, они чувствуют "нифига себе, эти ребята могут опустить мир на колени" но в действительности это не так... это просто кучка людей в комнате, это не то что когда государство организует группы на военном уровне от 3000 до 4000 хакеров.
 
 **synth**
-[laughs] Yea I’ve seen the government hacking squads, they’re running like windows xp... and like [laughs] Yea it’s, it’s a joke.
+[смех] Ага, я видел такие бригады хакеров от государства, они используют Windows XP... и типа [смех] да это просто не серьезно.
 
 **christian**
-I’m sure the NSA has some top level guys though, you know. I’m sure there are some cats that fuck around but there are those guys who are very well funded and they know what the fuck they’re doing.
+Я уверен что спецслужбы держат несколько квалифицированных спецов, знаешь. Ну да, я знаю что есть такие которые пинают балду, но есть и те которые получают огромные деньги за то что они знают чем занимаются.
 
 **synth**
-They’re all private sector.
+Все такие из частного сектора.
 
 **christian**
-Yeah, exactly they’re private sector because they’re not gonna sit there and deal with bureaucratic bullshit. They’re gonna get shit done. You know money talks at the end of the day. Ok so it’s self funded it’s organic, so Skycoin.. I’m sure you have developers all over the place. Is there a sort of a base for Skycoin?
+Ну да, точно они из частного сектора потому что они не собираются протирать штаны в офисе и разбираться с бюрократией. Они просто делают дело. И ты знаешь все эти разговоры о деньгах.
+И так это Skycoin, они вкладывают свои средства, органично развиваются.. Я уверен что ваши разработчики расположены по всему миру. Есть ли центральное место для Skycoin организации?
 
 **synth**
-No.. we have like twenty Ivans. [laughs]
+Нет.. у нас есть типа тридцать три богатыря. [смех]
 
 **christian**
-Got it, got it.
+Ага, понял, понял.
 
 **synth**
-We have people in Russia, people in China, people in the United States, a few in Europe, not so many in South America but it's global mostly.
+У нас есть люди из России, люди из Китая, Штатов, несколько из Европы, еще меньше из Южной Америки, но в основном это граждане мира.
 
 **christian**
-So you know, for a lot of people, a very simple question would be... Ok so we have the difference between Skycoin and Bitcoin, but honestly number two in line is Ethereum. And you mention Skyledger so you can print your own sort of ERC-20 like token, what’s the biggest difference between you and Ethereum like why isn’t everyone just using Skycoin instead of something like Ethereum?
+Ну ты знаешь, для многих людей, очень простой вопрос будет... хорошо в чем разница между Skycoin и Bitcoin-ом, но честно на втором месте это Ethereum. И ты упомянул Skyledger и то что вы можете печатать свои типа ERC-20 токены, в чем большая разница между вами и Ethereum, и почему это люди не используют Skycoin вместо чего нибудь типа Ethereum?
 
 **synth**
-Well our scripting language wasn’t finished until two months ago, so that's one reason. Ethereum has really evangelized, sort of, blockchain and they've pushed it out there. They've built this huge development community and they've done a great job, but their stuff isn't really ready for production. An example, you’ll have four thousand applications on Ethereum w/ four thousand ERC-20 tokens and if one token is doing an ICO, the whole network will shut down for two days just to process the transactions for that ICO. So if you’re a company like Siemens, and you’re trying to build a power grid on Ethereum, and the power grid goes out for two days because you know, Catcoin is doing an ICO, that would be ridiculous. So, these companies do like Ethereum, they like the blockchain but they don't want to build their business on it. They want a blockchain that they own. So one of the differences, and one of the reasons we built Skyledger, is because these companies were coming to us and saying, “we want our own blockchain.” We don't want to use their blockchain. We want our own. So they are doing pilots and tests on Ethereum, but for actual production, for legal reasons.. like if there’s a hack and six hundred million dollars is stolen, they need to go in and reset the blockchain and get that money back and Ethereum won't do that for them. Also, they’re worried about all this money. They keep reading these news articles like “twenty million dollars stolen” or something like “my friend sent eight hundred thousand dollars to an unspendable address and now the money is sitting there and you can look at it and can't spend it.”
+Ну наш скриптинг язык был закончен только два месяца назад, и это одна причина. Ethereum изначально продвигался, типа, как программируемый блокчейн и сообщество раздвинуло границы возможного. Они построили это громадное сообщество разработчиков и проделали громадную работу, но то что они сделали еще не готово к использованию. К примеру, если у вас есть четыре тысячи приложений на Ethereum с четырьмя тысячами ERC-20 токенов и если один токен проводит ICO, вся сеть будет лежать два дня просто из за проводимых транзакций для этого ICO. И если вы большая компания к примеру Siemens, и вы хотите интегрировать электрическую сеть на Ethereum, и ваша электрическая сеть отключается на два дня потому что ну знаете, Котэкоин проводит ICO, это будет просто смешно. И этим компании заинтересованы в Ethereum, им нравится блокчейны но они не хотят строить свой бизнес на нем. Они хотят свой собственный блокчейн. И это одно из различий, и причина почему мы создали Skyledger, это то что эти компании спрашивали у нас "нам нужен свой блокчейн". Мы не желаем делить блокчейн. Мы хотим свой. И они опробовали Ethereum, но в производство не запустили, и так же по правовым вопросам.. вроде если в результате взломы было бы украдено шесть сотен миллионов долларов, то они смогли бы сбросить блокчайн и возвратить эти деньги вместо того что бы просить Ethereum сделать это за них.  
+Так же, они были обеспокоены о всех этих деньгах. Из новостей типа "двадцать миллионов долларов украдено" или "мой друг отправил восемь сотен тысяч долларов на ничейный адрес и теперь деньги там и никто не может их потратить".
 
 **christian**
-Are you fucking serious dude? Eight hundred thousand dollars?Holy shit.
+В натуре чувак, ты серьезно? Восемь сотен тысяч долларов? Елы палы.
 
 **synth**
-Yea, if someone like did a typo in an address and now the money is stuck in an unspendable address and they’re like, “how do we get it out?” Because they had some scripting bugs or something.
+Ага, если кто то сделает ошибку в адресе то эти деньги застрянут там без возможности их забрать обратно, и они типа "как мы вытащим их обратно?". Потому что у них ошибка со скриптовым языком или что то подобное.
 
 **christian**
-Oh yea, I did hear that before. Yea there’s this big problem with ICOs, this huge problem, especially with these hardware wallets. I know exactly what you are talking about now, it makes sense.
+Точно, я уже слышал об этом. Да есть эта большая проблема с ICO, эта огромная проблема, особенно с хардвэрными кошельками. Я знаю точно о чем ты говоришь, это имеет смысл.
 
 **synth**
-Yea and some of the money, the amounts of money. It’s like, “Oh I lost a billion dollars.” For Bitcoin that’s normal, I probably had a wallet with like five thousand Bitcoin in it and like oops I deleted it. Like aw I can’t find it where did I put that wallet, and that's really just... losing millions of dollars experimenting with these cryptos is normal, but with businesses [they have regulations]. If you're running a power grid, they have all of these laws about customer billing and if they overcharge the customer by 0.3%, they get a million dollar fine. They like blockchain but they don't like this unreliability. So for Skyledger, we don't put all of the applications on one blockchain. It doesn't make sense for instance to put all of the world’s data on one giant blockchain and then force everyone to download one hundred terabytes of data. It just doesn't make sense to do that. We give each individual application their own blockchain. So we have this platform where we can spin up a million blockchains and this is very interesting. Delaware said that if your company, you know a little small cap company, registers in Delaware, you can put your stock on a blockchain. And if your stock is on a blockchain... you know your little bakery in Delaware and you incorporate and issue shares. People can buy and sell those shares now on the blockchain. It’s very easy and there are no fees. So say that little bakery becomes a publicly traded company and they want to raise money. If they want to sell their shares and the bakery makes more money, their share price might go up; so this is very interesting, but so for that particular company we would just want to give them their own blockchain. Like, here’s your stock ledger, you don't have to interact with anyone else. Here’s your blockchain. We might have ten million other companies in Delaware and they all need their own blockchain. They don't want to all be shoved on to this giant thing that stores all the world’s data.
+Ага и некоторые денежные инциденты, количество денег. Это типа "Ох я потерял биллион долларов". Для Bitcoin это норма, я мог бы владеть кошельком с пятью тысячами Bitcoin-ов на нем и могло бы опс, я случайно удалил его. Вроде ох я не могу найти где я его оставил, и это на самом деле... потеря миллионов долларов экспериментируя с крипто это нормально, но в бизнесе [у них есть правила]. И если у вас рабочая электрическая сеть, и существует множество законов о том как начисляется суммы для оплаты пользователям, и в случае если сумма превысит 0.3%, то с вашу компанию могут оштрафовать на миллион долларов. И этим компаниям нравятся блокчейн технологии, но им не нравится отсутствие надежности. И это не имеет смысла держать всю информацию мира на один гигантский блокчейн и заставлять всех загружать сотню терабайт информации. Это просто не имеет смысла делать это.
+Мы выделяем каждому приложению собственный блокчейн. И наша платформа может запустить миллион блокчейнов и это очень интересно. В Делавере есть закон что если ваша компания, маленькая компания, зарегистрирована в этом штате, то вы можете зарегистрировать сток на блокчейн. И если ваш сток на блокчейн... вроде маленькой пекарни в Делавере и вы открыли компанию и выпустили акции. И люди смогут покупать и продавать ваши доли на блокчейн. Это очень просто и без дополнительных сборов. И вот так небольшая пекарня может стать публично торгуемой компанией которая хочет поднять деньги. Если они захотят продавать акции компании и пекарня будет приносить прибыль, то цена акций может подняться в цене, и это очень интересно, и для этой компании мы сможем выделить собственный блокчейн. Вот ваша собственная биржевая книга, и вам не нужно посредника. Вот ваш блокчейн. Мы можем сделать тоже самое для десяти миллионов других компаний в Делавере и им всем нужны свои блокчейны. Они не хотят быть засунутыми в одну гигантскую кучу со всей информацией мира.
 
 **christian**
-Ok, so you solve this by spinning up parallel blockchains, basically making more lanes for traffic right?
+Хорошо, и вы решили эту проблему параллельным запуском блокчейнов, просто создавая дополнительные полосы для увеличения пропускной способности, правильно?
 
 **synth**
-Yea
+Ага
 
 **christian**
 Ok, I see what you’re saying. Ok so, if I spin up my own blockchain, am I spinning up tokens as well for that chain or?
