@@ -70,7 +70,7 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 Откуда у вас деньги изначально? И насколько проект поддерживает себя финансово?
 
 **synth**
-Когда мы запустились, Bitcoin был меньше чем $1, ну и мы просто... вкладывались [смех] и мы никогда собственно не нуждались в деньгах.
+Когда мы запустились, Bitcoin был меньше чем $1, ну и мы просто... вкладывались [смеется] и мы никогда собственно не нуждались в деньгах.
 
 **christian**
 То есть, у вас нет правительственного спонсора, корпоративного спонсора, и прочей лабуды, есть просто разработчики? Анонимные разработчики? Известные разработчики?
@@ -90,7 +90,7 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 Без сомнений
 
 **synth**
-Это было типа, "Ооо да, дайте нам двадцать триллионов долларов, или конец мира на завтра" [смех]
+Это было типа, "Ооо да, дайте нам двадцать триллионов долларов, или конец мира на завтра" [смеется]
 
 **christian**
 Конечно. Так и есть.
@@ -110,7 +110,7 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 И когда люди видят что нибудь типа devcon, они чувствуют "нифига себе, эти ребята могут опустить мир на колени" но в действительности это не так... это просто кучка людей в комнате, это не то что когда государство организует группы на военном уровне от 3000 до 4000 хакеров.
 
 **synth**
-[смех] Ага, я видел такие бригады хакеров от государства, они используют Windows XP... и типа [смех] да это просто не серьезно.
+[смеется] Ага, я видел такие бригады хакеров от государства, они используют Windows XP... и типа [смеется] да это просто не серьезно.
 
 **christian**
 Я уверен что спецслужбы держат несколько квалифицированных спецов, знаешь. Ну да, я знаю что есть такие которые пинают балду, но есть и те которые получают огромные деньги за то что они знают чем занимаются.
@@ -123,7 +123,7 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 И так это Skycoin, они вкладывают свои средства, органично развиваются.. Я уверен что ваши разработчики расположены по всему миру. Есть ли центральное место для Skycoin организации?
 
 **synth**
-Нет.. у нас есть типа тридцать три богатыря. [смех]
+Нет.. у нас есть типа тридцать три богатыря. [смеется]
 
 **christian**
 Ага, понял, понял.
@@ -174,127 +174,127 @@ Gigahash.io удалось взять под контроль выше 60-70% в
 И так, как заработать Skycoin помимо вкладывания денег на покупку и накопления?
 
 **synth**
-А ну хорошо тут два вопроса. Для Skycoin, мы не хотели что бы люди контролирующие консенсус соперничали за контроль сети в целях получения максимума платы за транзакции, потому что мы наблюдали за тем что происходило внутри сети Bitcoin; то как майнеры делали деньги на транзакциях держа сеть в заложниках и искусственно завышая цены. Один из майнинг пулов спамил блокчейн микротранзакциями сеть годами в целях получения больших выгоды на транзакциях. Майнеры, и это их бизнес, и их интересы отличны от интересов сообщества, и мы хотим избавиться от этого. Для того что бы избежать этого, нам пришлось избавиться от майнинг наград и платы за транзакции. Потому что если майнеры получают награду за транзакции, то они будут бороться за контроль над консенсусом и это приведет к появлению одной или двух огромных компаний контролирующих сеть.
+А ну хорошо тут два вопроса. Для Skycoin, мы не хотели что бы люди контролирующие консенсус соперничали за контроль сети в целях получения максимума платы за транзакции, потому что мы наблюдали за тем что происходило внутри сети Bitcoin; то как майнеры делали деньги на транзакциях держа сеть в заложниках и искусственно завышая цены. Один из майнинг пулов спамил блокчейн сеть микротранзакциями годами, в целях получения большей выгоды на транзакциях. Майнеры, и это их бизнес, и их интересы отличны от интересов сообщества, и мы хотим избавиться от этого. Для того что бы избежать этого, нам пришлось избавиться от майнинг наград и платы за транзакции. Потому что если майнеры получают награду за транзакции, то они будут бороться за контроль над консенсусом и это приведет к появлению одной или двух огромных компаний контролирующих сеть.
 
 **synth**
-So we created this new consensus algorithm called Obelisk, it’s sort of a web of trust. You have a consensus network and each node has a public key and each node subscribes to other nodes. It has a trust list of people, for instance if you know me personally you can add my public key to your trust list and the nodes subscribe to each other and they publish messages. Through this process, it’s actually a very old algorithm from the 1980s, the nodes all reach global consensus on what the current block head is. This type of mining doesn't require a lot of electricity. You could run it on a 30 watt cell phone processor. You don't need to have 600 gigawatt power like the Bitcoin mining network rigs. This is a much more efficient, much faster type of consensus process, but it does it in a completely different way. We have some whitepapers, but we have to write a sixty page whitepaper to go over more the implementation specifics because they matter a lot. Because most of the attacks aren’t actually an algorithm and they’re not the math it’s about how the thing is implemented. So since we don't have mining rewards and we don't have transaction fees, we are forced to create all the coins in the genesis block. And this was a problem because a few years ago people would always say “well that's premined!” Now people are sort of used to premined. They don't call them premines anymore it’s just the way it’s done. We had to figure out a way to distribute the coins fairly, so instead of just running this machine and doing mining and like blowing electricity like throwing money in a pit and burning it, we tried to find ways that people can receive coins for providing services that people are willing to pay for. One of the applications is Skywire, which is sort of a decentralized ISP where people will receive coins for forwarding packets. So once that's up, that’s going to be the primary method for distributing the rest of the Skycoin.
+И там мы создали новый консенсус алгоритм Obelisk, это вроде сети доверия. У нас есть консенсус сеть и каждый узел идентифицируется публичным ключом и все узлы подписаны на друг друга. И каждый имеет список доверенных лиц, например если вы знаете меня персонально то вы можете добавить мой публичный ключ в свой доверенный список и узлы будут подписаны друг на друга и будут публиковать сообщения. И через этот процесс, это кстати очень старый алгоритм известный с 1980х, все узлы смогут достичь глобального консенсуса о том где заканчивается текущий блок. Этот вид майнинга не требует больших затрат на электричество. Его можно запускать на 30ти ватном процессоре сотового телефона. Это более эффективный, более быстрый консенсус процесс, но он исполняется совсем иначе. У нас есть вайтпейпер описания, и мы создали шестидесяти страничное описание со спецификой исполнения, потому что это очень важно. Так как большенство атак совершаются не на сам алгоритм и они не связаны с математикой а с тем как вещи на самом деле сделаны. И так как у нас нет майнинг наград и оплат за транзакции, мы были вынуждены создать все монеты на блоке прародителе. И в то время это было проблемой потому что пару лет назад люди говорили "ага так это примайнг!". Сейчас люди уже свыклись с примайнингом. И так уже никто не говорит, это просто так как это сделано. Нам пришлось найти способ для того что бы раздать монеты по честному, и вместо просто чтобы жечь электричество держа компьютер включенным, это как выбрасывать деньги в печь, мы постарались найти пути через которые люди смогли бы получить монеты за предоставление услуг за которые другие люди хотели бы платить. Одно воплощение это Skywire, это что то вроде децентрализованного интернет провайдера где люди получают монеты за перенаправление сетевого трафика. И когда мы запустим эту систему то это будет один из главных способов распределения оставшихся Skycoin.
 
 **christian**
-Ok that makes sense because there has to be a way to distribute it, either manually or... so who is in charge of the keys to the master wallet right now? Is it a group of developers, what you have nine out of twelve signatures or something?
+Хорошо это имеет смысл потому что должен быть способ для распределения, либо вручную или... и кто владеет ключами от главного кошелька сейчас? Это группа разработчиков, как у вас есть девять из двенадцать подписей или как?
 
 **synth**
-Yea, It’s actually worse than that. It would’ve been better if it were nine out of twelve but it’s unanimous, so whenever we say we are going to distribute another million coins we have to get all of the developers to agree; which is why the distribution has been so slow. Because you have one guy who says, “well I don’t think that’s a good use of the coins and we shouldn’t do that etc.” Basically the community was screaming loud enough for enough years that it forced us to distribute this many coins on a set schedule and we finally found an agreement. I don’t think that it’s aggressive enough. I would’ve preferred to distribute 50% of the coins, but we have an agreement to get up to 30% and then to do 5% per year for the next fourteen years.
+Ну, это гораздо хуже на деле. Это могло быть проще если бы это было девять из двенадцати но вопрос согласия, так к примеру когда мы бы собрались распределить еще миллион монет нам бы пришлось собирать всех разработчиков для согласия, и это причина по которой распределения такие медленные. Потому что один человек говорит, "ну я думаю что это не лучший способ для использования монет и мы не должны делать этого итд." Просто сообщество высказывало сильное желание достаточное количество лет и это вынудило нас распределять определенное количество монет по расписанию и мы так пришли к согласию. Я не думаю что это это достаточно агрессивно. Я бы предпочел распределить 50% монет, но мы пришли к согласию раздать до 30% и затем 5% в год следующие пятнадцать лет.
 
 **christian**
-So right now, I’m sure that you are paying people for work in Skycoin. Wait let’s slow it down here, coinmarketcap says one hundred million Skycoin? Is that right?
+И что сейчас, я уверен, вы платите людям за работу в Skycoin. Подожди давай помедленнее сейчас, coinmarketcap говорит одна сотня миллионов Skycoin в обращении? Это правильно?
 
 **synth**
-No, well actually there is one hundred million, but only twenty million of them are spendable because they are time locked.
+Нет, ну на деле всего одна сотня миллионов, но только двадцать миллионов из них в обращении потому что другие заблокированы по времени.
 
 **christian**
-Oh I see.
+О я понял.
 
 **synth**
-That’s actually wrong, they haven’t updated this. The maximum supply, the total that will ever exist is one hundred million. Skycoin has six decimal places before the zero. If you have one million coins, you have 1% of the coins and then it goes six decimal places to the right of the zero. So this is a really human number because I didn't like the twelve zeroes or the 0.05969785 where you screw with the zero and you don’t know if it’s twelve zeroes or eleven zeroes or how many digits the thing is. So there’s one hundred million total and the reason that number was chosen was that one million coins is exactly 1% of Skycoin. The maximum that will ever exists is one hundred million. The total that exist right now that are spendable is actually less than twenty million, but coinmarketcap for some reason hasn’t updated and it still says one hundred million.
+Это на самом деле не правильно, я не обновил этого. Максимальный запас, общее количество когда либо существующих монет одна сотня миллионов. Если у вас один миллион монет, то это 1% от всего и это шесть десятичных знаков вправо от нуля. И это на деле человеческое число потому что мне не нравится двенадцать нулей или 0.05969785 где если вы перепутали знак и вы не знаете или это двенадцать нулей или одиннадцать нулей или сколько там цифр в этой штуке. И так что одна сотня миллионов в совокупности и это по причине того что это число было выбрано так что бы один миллион монет представляет точно 1% Skycoin. Максимум который когда либо будет существовать сотня миллионов. То что сейчас находится в обращении на деле менее двадцати миллиона, но coinmarketcap по какой то причине не обновили эту информацию и там до сих пор стоит цифра одна сотня миллионов.
 
 **christian**
-Yea it only says circulating supply of like six million.
+Да на нем информация что в обращении только около шести миллионов.
 
 **synth**
-Yea, and then six million have been distributed.
+Ага, и затем еще шесть миллионов было распределено.
 
 **christian**
-Well let’s slow down, so in terms of how the coins get out right now. There’s an organization of developers and they are choosing where these coins go. Now, so there are strategic partners, I know you said Skywire, there are projects associated with this. Are there any other modes to get in and get coins other than buying on the exchange right now?
+Хорошо давай поподробнее, с теми монетами которые в обращении сейчас. Есть группа разработчиков и они выбирают куда их направить. Сейчас у вас есть стратегические партнеры, я знаю ты упомянул Skywire, и проекты связанные с этим. Есть ли другие способы получения монет кроме покупки.
 
 **synth**
-Well you know buying them, doing work, bounties, translations, software development. For the coins, we have to distribute up to 20% and the next 10% are reserved for mining rewards so those will be distributed to the early people running the Skywire nodes. After the 30%, there’s a time lock and there’s a maximum of 5% per year of coins being released from that. So it will take fourteen years to get to the rest. So, essentially there is only thirty million coins and then the rest of the coins are going to take like two decades to get out and I don’t even think that they are going to be distributed at the maximum rate that they have been unlocked. We have twenty million coins unlocked right now and we have only been able to distribute six million so far and we’re distributing as fast as we can. For distribution, there are two major things: in two weeks we are launching an OTC market and we are going to start putting up ten Bitcoin per day of Skycoin on the OTC market so that the whales and the traders can start getting the coins more easily. So one of the complaints that we’ve have is that Skycoin is listed on cryptopia but nobody can buy it because nobody is selling the coin. So if you wanted to buy twenty Bitcoin worth of Skycoin, nobody will sell it to you. So there’s no trading because  you have a market and nobody will sell it to you at the market price.
+Ну да покупать, делать работу, баунти, переводы, разработку софта. Сами монеты, мы уже распростратили до 20% и следующие 10% оставлены для майнинг наград и они будут отданы ранним адептам которые будут запускать узлы Skywire. И после 30%, остальное будет отпускаться системой со скоростью максимум 5% монет за год. И это займет пятнадцать лет для того что бы раздать все. И, по сути будет только тридцать миллионов монет и это займет пару десятков лет что бы ввести в оборот остальные так как я не думаю что мы сможем распределять монеты с той же скоростью с которой они освобождаются системой. У нас сейчас есть двадцать миллионов свободных монеты мы смогли распределить только шесть миллионов до текущего момента и мы делаем это так быстро как мы можем. Для распределения у нас есть две большие вещи: через две недели мы запускаем возможность покупать монеты Skycoin в розницу с нашего сайта в размерах до десяти Bitcoin в день, так что киты и трейдеры смогут проще получать монеты. Так одна из жалоб то что Skycoin торгуется на cryptopia но никто не может купить потому что нет желающих продавать. К примеру если вы хотите купить Skycoin на двадцать Bitcoin, никто вам столько не продаст. И так нет торгов потому что на обменках никто не продает за текущую цену.
 
 **christian**
-I mean, mine are sitting in a private wallet. I don't even know why they are even on exchanges at all right now. I mean I guess people need to spend their money, some people work in crypto like you have to move the coins. Anyways, so let’s keep going, so how are these coins getting out?
+Я имею в виду, я держу свои монеты на личном кошельке. И я даже не знаю почему кто нибудь продает монеты сейчас. Я полагаю что людям нужны деньги, некоторые зарабатывают на торгах и тогда им нужно выводить монеты. В любом случае, давай продолжать, как эти монеты выходят в свет.
 
 **synth**
-Well this is very interesting. So we have some whales and they will buy twenty dollars a day, fifty dollars a day, two hundred dollars a day and they only buy but they won’t sell. Because the attitude is, if there is a coin and it can get listed on a larger exchange or it’s launching all this stuff then they’re expecting the price to increase in the future. They’re like why would I sell now if I could for 150x more in a year from now or six months from now. So we have a lot of really long term holders and they are just taking the coins, putting them in cold store, and they never leave cold store. We tracked down the cryptopia wallet and basically less than like 4-6% of the total Skycoin ended up back on the exchange and there are so few coins on the exchange that you can't day trade on it. So this is a problem with liquidity, because the traders want to trade and they can't trade because there isn't enough depth on the order book. We are trying to get through this distribution phase to add more liquidity and get the volume up a little bit.
+Ну это очень интересно. У нас есть киты и они покупают на двадцать долларов в день, на пятьдесят долларов в день, две сотни долларов в день и они только покупают но не продают. Потому что настроение, если есть монета и она может быть выставлена на торги на больших обменках или использоваться в своих проектах то ожидания то что цена будет только повышаться в будущем. Все типа, зачем я буду продавать сейчас если я смогу продать в 150 раз дороже через год или шесть месяцев. И у нас есть много людей которые на самом деле вкладывают на долгий срок и они только собирают монеты, и замораживают их, и не прикасаются к ним. Мы отследили монеты на cryptopia кошельке и так меньше чем 4-6% всего объема Skycoin возвращается обратно и из за низкого объема торгов дневная торговля не возможна. И это проблема текучести, потому что трейдеры хотят торговать и они не могут из за отсутствия больших объемов монет в торгах. Мы стараемся пройти через этот процесс распределения монет и добавить текучести для небольшого поднятия торговых объемов.
 
 **christian**
-Do you think Skycoin will have their own exchange one day?
+Как ты думаешь Skycoin будет торговатся на своей обменке когда нибудь?
 
 **synth**
-We have github.com/skycoin-exchange, so we actually wrote our own exchange. This is a dark net distributed federated exchange and we wrote it about a year ago, but we haven’t had time to fix it and get it into production. In the end, we ended up scrapping that and then using a third party exchange. Parts of that exchange became the OTC market so now we are gonna have the OTC market and I think that eventually we will have that exchange up. It's more like a dex.
+У нас есть проект github.com/skycoin-exchange, так что технически у нас есть собственно написаная обменка. Это даркнет распределенная федеративная обменка и мы написали код где то год назад, но нам не хватило времени что бы ее доделать до полной готовности. И под конец мы просто отложили эту идею и стали использовать обменку со стороны. Частично этот проект перешел в розничный рынок (OTC) который мы собираемся запускать и я думаю что в конечном итоге мы запустим обменку. Это больше вопрос сноровки.
 
 **christian**
-Yea, I mean its only going to be for the super hardcore guys right?
+Угу, и я думаю что ее смогут использовать только крутые перцы, правильно?
 
 **synth**
-No no, it's really easy
+Нет что ты, это на деле просто.
 
 **christian**
-Oh it is? ok
+О правда? Круто.
 
 **synth**
-So with Bitcoin, when you are trading on an exchange... since Bitcoin can take over an hour or twenty minutes to deposit money, you have to take your one hundred thousand dollars of Bitcoin and leave it on the exchange. Sometimes it gets stolen. For our exchange, we didn’t want our users taking a lot of money and having the exchange hold it for them. So with Skycoin, the transaction time is as low as two seconds. If you want to make some trades, you just deposit the money in two seconds, you make the trade and then you withdraw the money back to your wallet in five seconds. We have this exchange that doesn’t actually hold any money, which is a pretty good design. You can actually hit a button and it will withdraw all of your money from the exchange right back to your wallet. So the client and the server are actually integrated and it’s all public key based, so there’s no username, password, or email. It’s just a Skycoin public key that identifies you to the exchange and the order book. Also, if your account is idle for like a year, or a month, when you want to create your account it gives you a deposit address to return the money so that if you close your account it will just send all of your money back to this default address. So it’s a very interesting design, its not like an http exchange, its like an application that you run locally and it opens the web browser. It connects through the darknet to the order book backend. Anyways, I could go on for hours about that.
+С Bitcoin, когда вы торгуете на обменке... так как Bitcoin транзакция может занять час или двадцать минут что бы перевести деньги, и вам нужно перевести Bitcoin-ов на сто тысяч долларов и оставить их на обменке. Иногда они могут быть украдены. Для нашей обменки, мы не хотим что бы пользватели оставляли на обменке большое количество денег. И Skycoin время транзакции составляет несколько секунд, так вы можете сделать трейд и затем перевести деньги обратно на ваш личный кошелек в течении нескольких секунд. И то как клиент и сервер интегрированные друг с другом и используют публичные ключи, так что вам не нужно логина и пароля, или электронной почты. Это просто ваш Skycoin публичный ключ который идентифицирует вас на платформе и позволяет оставлять заявки. И так же, если ваш аккаунт не был использован например в течении года, или месяца, и вы хотите создать новый аккаунт то система просит определить адрес на который вы хотите отослать остаток, и так когда вы закроете аккаунт то деньги автоматически переведутся на этот адрес по умолчанию. Это очень интересный дизайн, отличный от онлайн обменок, это как приложение которое запускается на вашем компьютере и использует браузер. И затем соединяется с даркнетом и использует бакенд систему для торговых заявок. В любом случае, я могу продолжать часами описывать систему в деталях.
 
 **christian**
-Yea I hear what you’re saying. So I mean, what got you into this whole thing? I mean this project itself as you said it has been around for a number of years. What specifically was your sort of jump into this?
+Ага я с тобой, все то что ты говоришь. Я имею в виду, что привело тебя к этому? Я имею в виду этот проект так ты сказал ты уже некоторое количество лет с ним. Что заинтересовало тебя в проекте так что ты занялся этим.
 
 **synth**
-I’ve been doing this like forever. It feels like fifteen to twenty years for me. I was in the early like crypto anarcho-capitalists like underground newsgroup servers. I was one of the first people to hear about Bitcoin and I was stuck fixing the bugs. When Bitcoin was released and it wouldn’t compile on Linux because the guy was just like svn, there was no way to submit changes so you would fix this bug and they didn’t have Github so you couldn't do a pull request. So you would make a fix and then nobody would actually incorporate the fix into the repo, then next week somebody would end up having that same problem again. As far as crypto, I’ve been doing crypto and networking for awhile... like I did a video game, I worked at a hedge fund, I did early Bitcoin stuff. Now, I’m involved with like fifteen coins I think.
+Я занимаюсь этими вещами очень давно. Я чувствую что для меня прошло пятнадцать или двадцать лет уже. Я был ранним адептом, вроде тех крипто анархо-капиталистов с подпольными новостными серверами. Я был одним из первых людей которые узнали о Bitcoin и я встрял с исправлениями в коде. Когда код Bitcoin был предоставлен публике он не компилировался на Линукс платформе потому что это система была как svn, не было способа сабмитить изменения того что я починил, и тогда не было Github и вы не могли открыть пул реквест. И так кто то мог починить баг и затем никто не мог объединить его с репозиторием, и на следующей неделе кто нибудь сталкивался с этой же проблемой. И так крипто, я был вовлечен в крипто и налаживания связей довольно давно... как и с видео играми, я работал на хедж фонд, я занимался с ранним Bitcoin. Сейчас я завязан я думаю, с пятнадцатью крипто проектами.
 
 **christian**
-I’ve always been very curious like because I you know I’m like most white guys in their mid twenties, buying Bitcoins and storing it in wallets, doing some cool stuff with coin interview and stuff, but not anything like... how do you even begin to?? I always try to get into programming but I could never—
+Я всегда был очень заинтересован потому что я, ну как большенство белых парней в двадцать с лишним, покупающих Bitcoin-ы и затем держащих их на кошельках, делающих классные коин интервью и штуки, но не типа... как ты начинал?? Я всегда старался пробовать программировать но я никогда-
 
 **synth**
-—adderrall [laughs]
+— не сидел на аддералле [смеется]
 
 **christian**
-Yeah.. so where do you start? So you say you’re fresh out of high school, you know I can go to the military, or go to college or I can start poking out on the web and getting into some sort of code, especially with crypto and coins. How do you learn how to code and fix things and do that? Did it just come natural for you?
+Типа.. и где ты начал? И ты упомянул что ты только закончил школу, ты знаешь я мог бы пойти служить или пойти в университет или начать работать с вебом и быть вовлеченным в какое либо программирование, особенно с крипто и монетами. Как ты научился как программировать как чинить вещи и все такое? Было ли это просто что то такое что ты делал не напрягаясь?
 
 **synth**
-No... Well you start with math and you start hard things like video games, like puzzle games or something, and then you go start programming. I started programming at like eight or something in logo. I had an apple two and this program with a turtle and it was like “turtle go right, turtle go forward” and like drawing stuff. After college, I started doing websites and I created a bot that would spam up one hundred thousand websites to get ad revenues. It would just take this database and generate all these websites and it would catch google search results and people would come in on mobile and accidentally click the ads and I would make like twelve cents or something like that [laughs]. I had like a whole botnet going and that was in PHP. Then for some reason, I started making a video game in Javascript and then after I realized Javascript was too slow I moved to C++ and I ended up making a 3D video game. That took like two years. Then I started doing like hedge fund stuff which is the same stuff as the video game, you have a database and you have to do all these fast operations and networking. We were using Amazon EC2 when it just came out and we were renting like fifteen thousand servers from Amazon and blowing like seventy five thousand dollars in one go [laughs] you know? Ummm and then Bitcoin and then I started getting into crypto because I was fixing the bugs in Bitcoin and I was dealing with things like, “oh does it compile, or why don’t they have compressed signatures enabled?” and then I got pulled into doing this audit for this other crap you know it just keeps going and going and going and going.
+Нет... Ну ты начинаешь с математики и сложных вещей типа видео игр, типа головоломок или что то подобного, и затем ты можешь начинать программировать. Я начал программировать с восьми или что то около на Лого. У меня был второй Аппл и эта программа с черепахами и там было типа, "черепаха идет на право, черепаха идет прямо" и все прорисовывалось. После колледжа, я начал делать вебсайты и создал бота который спамил сотни и тысячи вебсайтов для получения прибыли с рекламы. Это было просто как взять базу данных и сгенерировать эти сайты и что бы гугл выводил их в поиске и люди приходили бы через телефоны и случайно нажимали на рекламу и это приносило мне двадцать центов прибыли или около того [смеется]. Я держал целый ботнет написанный на PHP. Затем по какой то причине, я начал делать видео игры на Javascript и затем я понял что Javascript слишком медленный для этих целей и перешел на C++ и так я начал писать 3D видео игры. Это заняло около двух лет. Затем я начал делать вещи вроде хедж фонда что по сути то же самое что и видео игры, есть база данных и тебе нужно делать все эти быстрые операции и сетевое общение. Мы использовали Amazon EC2 когда он только что появился и мы арендовали около пятнадцати тысяч серверов от Amazon-а и сжигали семьдесят пять тысяч за один прогон [смеется] ты знаешь? Хмм и затем Bitcoin и затем я заинтересовался крипто потому что я чинил эти баги у Bitcoin-а и имел дела с вещами типа, "ох могу ли я скомпилировать, или почему тут не использовать сжатые подписи?" и затем я был втянут в аудирование всякого другого мусора и ты знаешь это продолжалось и продолжалось и продолжалось.
 
 **christian**
-Yea so its kind of like a snowball effect, you just kind of start messing around and then you just get into it because I’ve tried reading books on Python and I’m like okay—
+Ага это вроде эффекта снежного шара, ты начал с небольшого и затем ты был втянут, потому что я старался читать книги по Python и я типа ну круто-
 
 **synth**
-[laughs]
+[смеется]
 
 **christian**
---like this hurts
+--типа это тяжко.
 
 **synth**
-The books are shit. You just have to go in and figure out a game you want to make like flappy bird or something. Like ok how do I draw something?
+Книги это ерунда. Ты просто должен начать что то делать, типа игры flappy bird или что то типа этого. Вроде отлично как я буду отрисовывать вещи?
 
 **christian**
-You know I don’t play games I used to have like a gaming addiction so I stay away from that shit now.
+Ты знаешь я не играю в игры я был вроде помешан на играх и теперь я держусь подальше от этого мусора.
 
 **synth**
-[laughs]
+[смеется]
 
 **christian**
-Here’s another thing, you can't fucking do everything in life either. Some people are not fucking like renaissance geniuses like I cannot do thirty things perfectly. We’re not fucking robots. Everyone has their own specialty. I really should ask that question more though because it’s a rabbit hole right? Like there’s so much fucking shit you can do it’s almost infinite right? It’s just code, as long as you can think it you can do it right?
+И еще одна вещь, ты просто не возможно делать все гребанные вещи в жизни. Некоторые люди которые не гребанные гении Ренессанса, как я не могу делать тридцать вещей в совершенстве. Мы не гребанные роботы. Каждый имеет свою специальность. Я на деле должен задать вопрос более глубоко потому что это как кроличья нора правда? Столько много всякого гребанного мусора который можно делать в жизни это почти что бесконечно, правда? Это как программирование, до тех пор пока ты думаешь что ты можешь это делать, правда?
 
 **synth**
-Theres this guy who made this thing like Worm Online. He started a project in college making like an MMO and its sort of like Morrowind. He spent like fifteen to twenty years doing this and he essentially wrote like World of Warcraft by himself. [laughs] It’s pretty funny. You just start on it and it never ends, and thats how Skycoin has been. We’re not even finished with one thing and we’re starting like five more projects. Like, “Oh now we need to double the developers, oh we need to double the teams, more projects etc.” For example sometime last week, we decided like oh were gonna have a hardware wallet now; so we just hired a guy who does pcb boards and he designed a pcb board and we just had it sent to the factory and he needs to solder the components. Then we have to flash the firmware and do testing and then in two weeks we'll have a hardware wallet and then we have to use a factory to start shipping out these hardware wallets. Then the other people on Skyledger, like we have Solarbankers and we have spaco.online, which is some like distributed file storage project. All of these coins on Skyledger, they want branded wallets, so we have to customize the wallet with their logo on it and something like that. We have a sports betting company and we have a forex company who is launching a coin too and they want gold plated, you know like a solid gold hardware wallet, so now its like hey how do I find a machine shop who does a solid gold casing wallet [laughs] and it just keeps going and going and going you know?
+Есть один чувак который сделал эту вещь типа Worm Online. Он начал проект в колледже делая вроде как MMO вроде типа Morrowind. Он потратил пятнадцать или двадцать лет делая эту вещь и он в итоге написал подобие World of Warcraft своими руками. [смеется] Это забавно. Ты просто начинаешь и это не имеет конца, и это как Skycoin до сих пор. Мы даже не закончили с одной вещью и мы уже начали пятнадцать других проектов. Вроде как, "О сейчас нам нужно удвоить команду разработчиков, о нам нужно удвоить команду, больше проектов итд." К примеру где то на следующей неделе, мы решили что у нас должен быть хардверный кошелек, и мы просто наняли этого парня который делает эти печатные микросхемы и он разработал нам одну такую и мы просто заказали их на фабрике и теперь ему нужно только спаять компоненты. Затем мы нужно будет загрузить фирмваре и тестировать и затем через пару недель у нас будет хардварные кошельки и мы сможем делать их на фабрике и отправлять людям. И затем другие люди на Skyledger, как у нас есть Solarbankers и spaco.online, которые делают что то вроде распределенного файлового хранилища. Все эти монеты на Skyledger, они все хотят брендовые кошельки, так что нам нужно будет напечатать их логотипы на кошельках или что то вроде этого. У нас есть компания которая занимается ставками на спортивные события, компания связанная с Forex которая запускает свои монеты тоже, и они хотят золото на этих кошельках, ты понимаешь вроде как целый золотой брусок в виде хардверного кошелька, и сейчас это вроде как эй как я найду место где делают эти цельные покрытые золотом кошельки [смеется] и это просто продолжается и продолжается и продолжается ну ты в курсе?
 
 **christian**
-Right, so in terms of going and going and going, with digital currency there really is no end to this right. People are going to find a way to monetize every single fucking thing that they can that make sense, because some things just don’t fucking make sense to monetize.
+Точно, и так говоря о продолжаться и продолжаться, с цифровой валютой на деле нет конца в развитии это правда. Люди будут находить пути монетизировать каждую долбаную вещь о которой они могут подумать, потому что некоторые вещи просто не имеет смысла монетизировать.
 
 **synth**
-I think its very funny because we are seeing like ten ICOs per day and most of these projects... it doesn’t make sense to have a coin, like theres an instant messenger and they’re launching a coin and they want to raise one hundred fifty million dollars on an ICO. It's like ok now I have messenger coin. So it’s like, “oh what do we need messenger coin for?” “Oh you want to send somebody a message on your cellphone and it costs coins!!” So every message would be like ten coins right and I’m like this is retarded. They are trying to take things that you are already getting for free and then attach coins on it so you can have an ICO and it doesn’t make any sense at all. These coins are not... they are just apps they are like app coins.
+Я нахожу это очень смешным потому что мы видим десять ICO-с в день и большенство и этих проектов... они просто не имеют смысла для того что бы держать монеты, вроде этого мессенджера мгновенных сообщений и они тоже запускают монеты и они хотят поднять одну сотню с половиной миллионов долларов через ICO. И это так, хорошо у меня есть мессенджер монеты. И что дальше, "На какой банан мне сдались мессенджер монеты?" "О вы можете отсылать сообщение кому либо с вашего телефона и это будет стоить монет!!" И так каждое сообщение будет стоить десять монет отлично и я думаю что это тупо. Они стараются сделать вещь которая уже существует бесплатно и затем начать брать деньги за нее, так что есть ICO которые просто не имеют здравого смысла вообще. Эти монеты к примеру... это просто приложение и они делают вроде как монеты для использования в этом приложении.
 
 **christian**
-So like me, I don’t understand the app coins. I run some of the dynodes for the Duality Project and for me its always cooler for someone who’s not really interested, you know I can follow tutorials and shit. For me, setting up the nodes or the validators and staking the wallets that for me where it makes a lot more sense to put your time and attention into rather than just... I mean yea I’m gonna send a message to my friend and I’m gonna get like .000001.
+Это правда для меня тоже, я не понимю эти монеты в приложениях. Я могу запустить эти диноды для Двойственного Проекта и для меня это всегда круче чем для кого либо кто не заинтересован, ты знаешь я могу следовать обучающим инструкциям и ерунде. Для меня, запустить узел для валидации и поддержки кошелька это для меня имеет смысл просто проявить интерес к такому проекту вместо того... я имею ну да я буду отсылать сообщение моему другу и я буду зарабатывать вроде .000001.
 
 **synth**
-[laughs] and you’re gonna get paid for messaging your friend? Oh yea and this, “we’re gonna get paid to watch ads bullshit thing” like, oh yea people watch ads so were gonna pay them money to watch ads and then this company would like spawned ten thousand bots to collect the points and then try to redeem them for like Amazon gift cards [laughs].
+[смеется] и ты будешь зарабатывать на сообщениях своему другу? О да и это, "мы будем зарабатывать на просмотре рекламы и всякого бреда" типа, о да люди смотрят рекламу и мы будем платить им деньги за просмотр и затем эта компания создаст десять тысяч ботов для сбора очков и затем будет пробовать получать прибыль с них на Amazon гифт картах [смеется]
 
 **christian**
-Yea theres like really hard questions. I wish I always had like a programmer on our show so I could ask the most ridiculous questions. because that how I was like.. now that you mention it I interviewed Bitclave and they have some really cool devs on their team but like cant you just get bots to run on the...
+Да тут есть вопросы на которые тяжело ответить. Я хотел я всегда имел программиста на нашем шоу и так я бы мог задавать самые смехотворные вопросы. Потому что это как я был... и так как ты упомянул это я проводил интервью с Bitclave и у них есть крутые разработчики в команде и вроде ты не сможешь запустить бота для...
 
 **synth**
-[laughs]
+[смеется]
 
 **christian**
-Like how do you protect against botnets? Like those are just malicious nodes right?
+Вроде как можно защититься от ботнетов? Вроде тех которые запускают узлы в злонамеренных целях?
 
 **synth**
 Substratum... ты же знаешь, что я не должен говорить о людях гадости, но это довольно забавно. У них есть сервер, и они говорят, что вы можете запустить свой сервер, и вы будете получать монеты каждый раз, когда кто-либо обратится к вашему веб-серверу? Так почему бы мне просто не запустить бота и не открывать мою страницу сто раз в секунду и просто получать монеты в кошелёк? Такие компании, как Google и Facebook, тратят миллиарды долларов в год, пытаясь остановить этот тип мошенничества, и они не могут остановить его, это практически невозможно. Это забавно, потому что Facebook продавал на сотни миллионов долларов рекламы на  продвижение в правой панели Facebook, и вот что происходит: люди тратили в рекламных кампаниях по 50 миллионов долларов, но в некоторых из этих компаний была аналитика. Они начинают говорить: «Ну, откуда взялись эти IP-адреса?». И они выяснили, что 50% трафика из рекламы в Facebook поступает из Китая, и все похожи друг на друга: «Эй, погодите, но Facebook заблокирован в Китае? Почему мы получаем все это? ». Затем они понимают: «О, это боты». Так что, как с Facebook, пока рекламодатели готовы платить за бот-трафик, им все равно, но когда они узнают правду, будут проблемы.
