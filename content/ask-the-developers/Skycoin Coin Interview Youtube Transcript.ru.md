@@ -472,192 +472,194 @@ Substratum... ты же знаешь, что я не должен говорит
 
 **synth**
 Ну, так что это так, так что у правительств, в центральных банках, предположительно, есть пятнадцать триллионов долларов в фиате, например USD, EUR, YUAN, YEN и т. д., и это количество, которое они официально опубликовали, но сколько на самом деле денег никто не знает. Они лгут. Им не нужно сообщать точное количество. Они всегда играют цифрами. Каждая страна размывает цифры, чтобы они выглядели лучше, чтобы они могли получить больше кредитов и все такое. Они всегда понимают инфляцию, и у них есть разные способы подгона чисел. Я разговаривал с одним парнем, он делал некоторые офшорные трюки. В принципе, они думают ... там документировано, что лежат семьдесят триллионов, поэтому правительство говорит, что пятнадцать триллионов, но на самом деле семьдесят триллионов долларов в офшорах. Сейчас происходит то, что правительство США входит в GACTA, FACTA и G20, а также в законы и международные договоры, которые вынуждают всех людей покинуть эти офшорные налоговые гавани. Они публикуют Панамские документы и взламывают банки, публикуют всю эту информацию о том, кто хранит деньги за границей, друзья Путина, семьи в Китае и правящая элита в Великобритании, и в основном говорят, что вы не сможете скрыть свои деньги от нас, мы собираемся вас найти. Таким образом, эти деньги, что составляют семьдесят триллионов долларов, в основном вытесняются в США, потому что, если вы живете за границей, США на самом деле являются налоговым убежищем. Правительство США требует данные из любой другой страны, но если вы поместите свои деньги в США, правительство США не представит свои данные в какую-либо другую страну. Поэтому, если вы прячете свои деньги в США, и вы в Саудовской Аравии, если другая страна пытается получить эти деньги или найти, где они находятся и у кого они лежат, они просто игнорируют иск. Но если вы являетесь банком в Саудовской Аравии, вы должны сообщать свои данные всем ... так что все эти деньги переносятся в американские доллары, и вот что происходит, эти семьдесят триллионов долларов, которые сейчас находятся в офшорной зоне, теперь заливаются в крипту. Вы часто видите, что эти люди не знают, как им пользоваться ей, они  технически неграмотны, но все равно мы видим огромный поток денег в крипто. Объем невообразим, и крипторынок сейчас составляет сто восемьдесят миллиардов, и я думаю, что он пойдет до десяти триллионов, прежде чем он остановится. Deoitte сказал, что к 2030 году он будет стоить пять триллионов долларов. Темпы роста составляют более 1% в день, и уже больше десять лет. Если вы поинтересуетесь и возьмете рыночную капитализацию биткойна, накладываете прямую линию на линию регрессии, наклон этой линии составляет 1% в день. Экономические циклы ничего не меняют. Будет как с пузырем доткомов и лопнет, потому что большинство из этих монет не имеют никакой ценности, поэтому есть огромная масса флуда, и люди пользуются этим. Есть пятнадцать различных смарт-контрактных платформ. 90% этих смарт-контрактных платформ не имеют пользователей, поэтому, если у смарт-контрактной платформы нет пользователей, то почему она стоит десять миллиардов долларов.
-  
+
 **christian**
 Паршивый скам, вот почему
 
 **synth**
-И это очень забавно, потому что я видел, как один из них попал в первую десятку или что-то в этом роде. Они даже не сделали ICO. У них не было ICO, не было пре-ICO. Они просто продали монеты некоторым людям и положили их на Bittrex и торговали ими, и вроде как миллиард долларов или что-то в этом роде. Какая-то компания, о которой я никогда не слышал. И гм, вроде: «У нас есть масштаб!» но у них нет пользователей и прочего, почему это стоит миллиард долларов? Вот что происходит, люди собираются надуть пузырь, они собираются инвестировать в спекулятивные вещи, если маркетинг хорош. Затем, прежде чем пузырь лопнет, когда он близок к своему «пику», умные деньги начнут перемещать все свои активы в монеты с фактической стоимостью. Как у вас есть угольная шахта, у вас есть золотая жила, у вас есть серебряная шахта, вы продаете песок для монет. У вас есть интернет-провайдер, распределенная коммунальная компания, у вас есть фактические солнечные батареи. Им потребуется физическая инфраструктура, такая как залог, который фактически обеспечивает эти монеты. Тогда у нас будет пузырь в активах или товарных монетах, потому что всем этим деньгам некуда бежать. Или вот, деньги вливаются в биткойн. Если вы купили биткойн за копейки, и он идет до шести тысяч долларов, вы не можете продать на сто пятьдесят миллионов долларов Биткойна. Даже не сможете разобраться с налогом. Они не знают, придется ли им платить 30% налог, 10% налог или 15% налог, они предпочитают сидеть на биткойне. Никто на самом деле не продает монеты. Это произощло, они заработали деньги, и они просто не хотят иметь дело с проблемами, связанными с превращением их в бумажные деньги. 
-  
+И это очень забавно, потому что я видел, как один из них попал в первую десятку или что-то в этом роде. Они даже не сделали ICO. У них не было ICO, не было пре-ICO. Они просто продали монеты некоторым людям и положили их на Bittrex и торговали ими, и вроде как миллиард долларов или что-то в этом роде. Какая-то компания, о которой я никогда не слышал. И гм, вроде: «У нас есть масштаб!» но у них нет пользователей и прочего, почему это стоит миллиард долларов? Вот что происходит, люди собираются надуть пузырь, они собираются инвестировать в спекулятивные вещи, если маркетинг хорош. Затем, прежде чем пузырь лопнет, когда он близок к своему «пику», умные деньги начнут перемещать все свои активы в монеты с фактической стоимостью. Как у вас есть угольная шахта, у вас есть золотая жила, у вас есть серебряная шахта, вы продаете песок для монет. У вас есть интернет-провайдер, распределенная коммунальная компания, у вас есть фактические солнечные батареи. Им потребуется физическая инфраструктура, такая как залог, который фактически обеспечивает эти монеты. Тогда у нас будет пузырь в активах или товарных монетах, потому что всем этим деньгам некуда бежать. Или вот, деньги вливаются в биткойн. Если вы купили биткойн за копейки, и он идет до шести тысяч долларов, вы не можете продать на сто пятьдесят миллионов долларов Биткойна. Даже не сможете разобраться с налогом. Они не знают, придется ли им платить 30% налог, 10% налог или 15% налог, они предпочитают сидеть на биткойне. Никто на самом деле не продает монеты. Это произощло, они заработали деньги, и они просто не хотят иметь дело с проблемами, связанными с превращением их в бумажные деньги.
+
 **christian**
-Это не совсем так. Дело в огромной проблеме, что нет движения денег. Оборота нет, экономики нет. Хорошо, у тебя целая груда дерьма, круто. Вы собираетесь оборачивать их? Нет, нет? Хорошо, тогда и я не буду 
+Это не совсем так. Дело в огромной проблеме, что нет движения денег. Оборота нет, экономики нет. Хорошо, у тебя целая груда дерьма, круто. Вы собираетесь оборачивать их? Нет, нет? Хорошо, тогда и я не буду
 
 **synth**
-Well you can buy houses with it now--
+Ну сейчас можно покупать дома с ним--
 
 **christian**
---so what do you think about the royal mint gold token? The royal mint england should be launching it in 2018 I think.
+--и что ты думаешь о королевском чеканном золотом токене? Королевский чеканный британский дворец должен запускать его в 2018, вроде как.
 
 **synth**
-I met the one from Dubai. The xantum or xannium, or um..
+Я встречал одного и Дубай. Ксантум или ксанниум, или гм..
 
 **christian**
-Yea fuck that though, this is like the royal mint England, this is legit like fucking, gold, royal mint has been around for a millenia dude. It's been around forever.
+Да пофиг на это, представляешь это королевский чеканный двор Англии, это в натуре, золото, королевский чеканный которому уже добрая тысяча лет чувак. Он был там как бы всегда.
+
 
 **synth**
-You know... gold is really weird because you buy a gold ETF or like paper gold and they'll take the same bar of gold and sell the same bar to three hundred different people, giving a piece of paper saying they own the same bar. So I don't even really trust.. I'm very suspicious about it. Like, "Oh yea we have these gold bars!" but when you actually ask for the bars they don't have them. If that is an actually legit one that could be good I don't know. Like just take it and bury it in your backyard or something [laughs].
+Ты знаешь... золото это на самом деле странный металл потому что ты покупаешь бумаги торгуемого фонда или вроде бумажное золото и они будут брать один и тот же брусок золота и продавать его трем сотням разных людей, раздавая кусочки бумаги по которой все эти люди владеют одним бруском золота. И я даже им не верю.. Для меня все это подозрительно. Вроде "Конечно, у нас есть эти золотые бруски!" но когда вы на деле просите брусок его нет у них. Если это на деле правда, может быть, я не уверен. Просто возьми это золото и закопай у себя на заднем дворе или еще что [смеется].
 
 **christian**
-Well this is all the gold in our city, the royal mint owns it; so it's actually their gold. It isn't like the United States where you get a certificate or something like that. Anyway, umm,
+Хорошо допустим все золото у нас в городе, королевский чеканный владеет им; и это на самом деле золото. Это не так как в Соедененных Штатах где ты владеешь сертификатом или вроде того. В любом случае, хмм.
 
 **synth**
-Oh this is funny, we had a guy who had some mountain with a piece of paper saying he has a bunch of gold on the mountain and he wants to do like an ICO for the mountain.
+О да была у нас смешная история, этот чувак который владел на бумаге участком горы где было много золота, на этой горе, и он хотел запустить ICO для этой горы.
 
 **christian**
-What????
+Чтооо????
 
 **synth**
-[laughs] I was like ok...
+[смеется] Я такой давай...
 
 **christian**
-What???? Get that shit dude, get the blocks out and mine the shit out.
+Серьезно???? Берись за это чувак, бери взрывчатку и добывай этот мусор, столько сколько ты сможешь унести.
 
 **evan**
-What????
+Чтооо????
 
 **synth**
-Remember sandcoin? That zirconium coin?
+Помнишь песок-коин? Этот циркониум-коин?
 
 **christian**
-Yeaaa dude, we interviewed them. What happened to that project? Are they still around?
+Ааагаа чувак, мы брали интервью у них. Что случилось с этим проектом? Они еще на плаву?
 
 **synth**
-It's only been two weeks. [laughs] What do you mean are they still around? That quick?
+Только пару недель прошло. [смеется] Что с ты имел в виду, они еще на плаву? Что так быстро?
 
 **christian**
-Well I mean I guess they just finished their ICO. We interviewed them before they finished their ICO.
+Ну я имел в виду я полагаю что они только что закончили ICO, мы брали у них интервью перед тем как они закончили ICO.
 
 **synth**
-Sp they finished the ICO and two weeks later they're like gone?
+И что они закончили ICO и через две недели они вроде как кинули в лету?
 
 **christian**
-I would not be surprised... I would not be. I'm telling you. Ok so we are almost at an hour and a half, so what's the next steps? The hardware ledger? The hardware wallet?
+Ну я бы не удивился... я бы не. Я тебе говорю. Ну хорошо уже прошло полтора часа, и какие ваши следующие шаги? Хардверный леджер? Хардверный кошелек?
 
 **synth**
-So we are launching the mobile wallet. We just put in a new version of the desktop wallet, completely from scratch. We were just fixing bugs. There were like twenty bugs we didn't know about, so we fixed those. We are trying to get larger exchanges. We are going to be listing on CyberX when they launch. They were supposed to be launching a week ago, but they had project management delays and whatever. We are talking to binance. It's very hard to get in contact with any human at these exchanges. We have people who are just full time contacting these exchanges, but they just have these zen forms, so it's like fill out the zen form and hope someone contacts you. There are so many coins now. There is like a thousand coins and the exchanges only have room to list like fifty coins, so we are trying to get through that and get our marketing stuff in order and do more exchanges. We are trying to get the OTC listing done. We are trying to launch the Skycoin Skywire miner, which is the hardware platform for doing this decentralized internet. We are trying to ship the first units within a month. We have a supplier and we want three thousand CPUs, but they only have one thousand CPUs so we have to wait three weeks for the factory to produce more. So we are dealing with supply chain and how do we ship it and things like will customs reject it because they are electronics. So we're shipping those out we are getting started on the hardware wallet. We are starting with the marketing. We did a marketing campaign test, but we couldnt do anything because the media is focusing on this hard fork for Bitcoin. So we are waiting for this to die down so we can start our marketing coverage. We just did a new logo. We did our rebranding. We just finished getting like sixty thousand stickers printed up. I have a stack of stickers that is like sixty feet high.
+У нас в разработке мобильный кошелек. Мы только что обновили кошелек для десктопов, разработанный с нуля. Мы исправляем ошибки. Мы стараемся выйти на большое количество обменок. Мы собираемся быть выставлены на CyberX когда они запустятся. Они собирались это сделать неделю назад, но у них случились задержки из за менеджмента или что еще. Мы ведем переговоры с Binance. Это очень тяжело связаться с людьми на этих обменках. У нас есть люди которые только и занимаются тем что держат связь с этими обменками, но у них везде только эти зен формы для связи, и только что остается заполнять эти формы и надеятся что кто нибудь ответит на них. Сейчас слишком много монет развелось. Тысячи монет и обменки могут выставить только часть из них. Мы стараемся запустить OTC. Мы стараемся запустить Skycoin Skywire майнер, это хардверная платформа для децентрализованного интернета. Мы собираемся начать отправлять первые образцы в течении месяца. Нам нужно три тысячи CPU юнитов, наш поставщик может обеспечить только одну тысячу, и так нам нужно ждать три недели что бы фабрика произвела больше. И так мы разбираемся с поставками и как мы будем отправлять эти штуки и что делать если их не пропустят на таможне потому что это это электроника.  И мы рассылаем их и мы начинаем работу над хардверными кошельками. Проводим маркетинг. Мы провели пробую компанию, без результатов потому что медиа сейчас сфокусированы на этих биткоин хард форках. И мы ждем пока это все закончится и тогда мы начнем свою маркетинговую компанию. Мы недавно обновили логотип. Провели ребрендинг. И только что напечатали шестьдесят тысяч стикеров. У меня есть пачка стикеров которая шестьдесят футов высотой (~18 метров).
 
 **christian**
-Oh my god.
+О боже.
 
 **synth**
-We're just hiring more people, hiring more developers. We're doing more interviews. We have like twelve more interviews lined up. It's exhausting. There is so much going on. The CX language. We don't have any press releases about that. We need to get the press releases for Skywire. There is just a billion things. It is really massive. It's exhausting too.
+Мы только что наняли больше людей, больше разработчиков. Мы проводим интервью. У нас проходит до двенадцати интервью за раз. Это утомляет. Столько всего происходит. CX язык. У нас еще не было прес релизов насчет этого. Нам нужно подготовить пресс релиз для Skywire. Это биллион вещей. Это на деле очень много. И очень истощает.
 
 **christian**
-This CX language is really interesting.
+Этот  CX язык очень интересный.
 
 **synth**
-We have a guy. Do you remember Huntercoin?
+С нами работает этот парень. Помнишь Хантеркоин?
 
 **christian**
-Yea.
+Ага.
 
 **synth**
-That was one of my favorite coins. He did Namecoin too. He dropped dead at like 28 for no reason, this Russian guy. Huntercoin was like this MMO on the blockchain where you would fight people and you would get real money coins for fighting them. This sort of like nethack or something. This idea of a video game on the blockchain I really liked. With CX, we have this developer working on Dwarf Fortress or like Sim Ant and I want him to do some video game demos to show off what we can do with CX. Ethereum you can't really do poker on the blockchain because each block is thirty seconds. With Obelisk we can get the block time down to like half a second, so we can do real time games like poker or chess on the blockchain. So I want to see what people can do with that. So we are opening a dev platform and we are letting people come in and make games, and they can create their own token for the game and so on. Skycoin won't make money from that directly, but we will get people on the platform, get attention, and get people to install the software.
+Этот проект один из моих фаворитов. Он так же запусил Неймкоин. Он пропал в 28 без видимых причин, этот русский парень. Ханткоин был вроде MMO на блокчейн где вы сражались с другими людьми и получали деньги за это. Это вроде NetHack или что то похожее. Эта идее видео игры на блокчейне мне очень понравилась. С CX один разработчик работает над Dwarf Fortress или Sim Ant и я хотел что бы он сделал какую нибудь видео игру для демонстрации что можно сделать с CX. С Ethereum вы не можете написать игру в покер на блокчейн потому что время блока 30 секунд. С Obelisk мы можем довести время блока до половины секунды, и так мы можем делать реалтайм игры вроде покера или шахмат на блокчейне. Нам интересно что люди сделают с этим. И так скоро откроется платформа для разработчиков где люди смогут делать игры, и они смогут создавать свои токены для своей игры и так далее. Skycoin не будет зарабатывать на этом напрямую, но мы будем приводить людей на платформу, продвигать, и помогать устанавливать софт.
 
 **christian**
-Hmmm, yea I think the guys changed the project to like Chimera, the Huntercoin.
+Мммм, да я думаю что чуваки поменяли проект на Chimera, Ханткоин.
 
 **synth**
-They renamed it?
+Они поменяли имя?
 
 **christian**
-They forked the code yea. They are pushing that fork.
+Они сделали форк кода ага. Они теперь продвигают этот форк.
 
 **synth**
-That's cool.
+Это круто.
 
 **christian**
-I mean shit man, this Skywire thing, I am going to look into it as soon as it's launched and starts running. Basically a mesh network right?
+Я имею в виду елки палки чувак, этот Skywire, я собираюсь разобраться с ним когда он запуститься и начнет работать. Это мэш сеть по сути?
 
 **synth**
-Yea a mesh net, but it's actually more general than the mesh net. Mesh net is a good marketing term but it's actually software defined networking. This just lets software control the networking. Like you can throw up a bunch of nodes on your roof, or your neighbors roof, and it will just automatically reconfigure to work and route the packets to the right place because each node has a computer in it. Whereas with IP, with the old internet protocol, you just look up the IP and the router looks it up and it forwards it to the next port. It's stupid. It uses like BGP. There isn't any intelligence on the network. With software defined networking, we put the whole network and how packets are routed under control of the software. It could literally be used for anything, for any type of networking. For VPNs, Socks5 proxies, mesh networks, or satellites, for whatever you are doing, you can just run a program to change how the network behaves. So this is very interesting.
+Ага мэш сеть, но на деле с более широким функционалом. Мэш сеть это хороший маркетинговый термин но это на деле софт определяющих работу сети. При помощи софта происходит контроль сети. Так вы можете запустить пару узлов на вашей крыше, или крыше соседа, и софт автоматически сконфигурирует сеть для оптимального роутинга пакетов в нужное место потому что каждый узел это отдельный компьютер. Тогда как IP, в старом интернет протоколе просто смотрит IP в роутере и перенаправляет пакет на следующий порт. Это глупо. Это динамический протокол маршрутизации (BGP). Такая сеть не имеет интеллекта. Привлечение софта в маршрутизацию позволит сети контролировать то куда направить пакеты. Это может быть использовано для чего угодно, для любой задачи маршрутизации. Для VPN-ов, Socks5, прокси, мэш сетей, или спутников, и чего бы вам не понадобилось, вы просто можете поменять программу для того что бы изменить характеристики сети. Это очень интересно.
 
 **christian**
-Well I'm happy to hear that. I didn't even know you guys had a discord group. Is it pretty active there?
+Ну я рад слышать это. Я даже не знал что у вас есть группа на дискорд. Насколько она активна?
 
 **synth**
-I don't really use it. We have a telegram and we are active there. We had a slack. We log into the slack and we see that there is like 28,000 messages a day. There are just spam bots spamming each other. One spam bot says, "Hi!" and the other spam bot says, "Hi!" and they just go back and forth in an infinite loop in private messaging and then the message queue ends up filling over.
+Я на самом деле даже не использую его. У нас есть телеграм и мы активны там. У нас есть слак. И когда мы логинимся на слак там можно видеть 28000 сообщений за день. Это спам боты которые спамят друг другу. Один бот говорит, "Привет!" и другой отвечает "Привет!" и они просто так продолжают общаться в замкнутом цикле через личные сообщения и затем очередь сообщений просто переполняется.
 
 **christian**
-Yea I understand.
+Ага я понимаю.
 
 **synth**
-With Telegram too, we have so much.. like every five minutes someone comes in and they're like, "Join our pump groups!! We have the biggest pumps!!" It's like penis pump cartel. "Coin pump, pump, pump, pump!"
+И с телеграмом тоже, их слишком много.. каждые пять минут кто нибудь присоединяется и они "Присоединяйтесь к нашей спекулятивной группе!! С нами самые большие прокачки!!" Это как картель насоса для пениса. "Монета качай, качай, качай, качай!"
 
 **christian**
-Apparently, Skycoin is pumping right now. That's what they're saying in the chat dude. We're not fucking responsible for that shit.
+Однозначно, Skycoin прокачивается прямо сейчас. Это то о чем они говорят сейчас в чате чувак. Мы не можем нести долбаную ответственность за этот мусор.
 
 **synth**
-What is it at now?
+Что такое сейчас происходит?
 
 **christian**
-I have no idea they're probably just fucking with us.
+Я понятия не имею они возможно просто хотят разозлить нас.
 
 **synth**
-I gotta check this
+Мне нужно проверить это
 
 **christian**
-We had the guys from Golem on our show. They went crazy in the Polo trollbox and they pumped fucking Golem up. I was like I'm not fucking responsible for you guys losing your money. I couldnt believe that shit dude.
+У нас были на шоу парни из Golem. И народ просто сошел с ума на Полонех троль боксах и они прокачали долбаный Golem. И я сразу снимаю свою долбаную ответственность за то что вы парни теряете ваши деньги. Я не могу поверить в этот мусор чувак.
 
 **synth**
-Oh we're almost at $4 we're up like 20% that's great
+О мы почти на $4 поднялись почти на 20% это классно
 
 **christian**
-That's good there you go. Fucking boom Skycoin dude, go get that shit.
+Это классно, вот тебе на. Долбаный Skycoin бум чувак, давай налетай на этот мусор.
 
 **synth**
-I can't wait for the Cliff High interview. He mentioned us in like his investment report and the price doubled in like eight hours.
+Я жду не дождусь интервью Клиффа Хайя. Он упомянул нас в его рапорте об инвестировании и цена удвоилась в течении восьми часов.
 
 **christian**
-Have you heard of the Palm Beach Confidential group? These guys? Aw man, they took ZenCash from like $6 to $25 dude it's like alright.
+Ты слышал о Палм Бич Конфеденшиал груп? Эти парни? Ох чувак, они взялись за ZenCash и прокачали его с $6 до $25 и это как нормально.
 
 **synth**
-What's ZenCash?
+Что это ZenCash?
 
 **christian**
-It's like a fork of Zcash.
+Это Zcash форк.
 
 **synth**
-[laughs] A fork of a fork.
+[смеется] Форк от форка.
 
 **christian**
-I don't understand. Like I guess it's not illegal to do that. Like ok, "This is my pick and this is my bias and this is what I'm telling other people to buy." It's not illegal to do that. I would not fucking trust anybody who buys that coin. Like dude what the fuck are you talking about, if I read about it and it makes sense I'll get it.
+Я не понимаю. Это я полагаю не противозаконно делать такое. Ну хорошо, "Это мой выбор и это мое предвзятое мнение и это то что я советую покупать другим людям." Это не является противозаконным. Но я бы не сдал бы верить кому либо кто покупает эти монеты. Вроде как чувак что это за ерунда о которой ты говоришь, если я бы прочел об этом и это для меня имело бы смысл то я бы взял.
 
 **synth**
-I see these investment newsletters with these guys on a caribbean island on like a beach with two hot girls and a giant gold necklace and its' like, "buy this coin!! make 5000% profit!!" and I'm like what the fuck.
+Я вижу что эти письма с инвестициями, с этими парнями на карибских островах на пляжу с двумя красотками с громадной золотой цепочкой на шее и они, "покупайте эту монету!! получайте 5000% прибыль!!" и я как что за фигня.
 
 **christian**
-Good luck.. good luck. Yea I just got back from Spain. The whole idea of just being on the beach. It's where devcon is. I was going to go to devcon, but man... Cancun dude I don't know man. I just don't know about people who only want that in their life. Let's be real dude. For three days, you're like ok, and then you're like let's get the fuck out of here. I have other shit to do man.
+Удачи.. удачи. Да я только что вернулся из Испании. Куда я поехал только для того что бы отдыхать на пляжу. Это был девконф. Я бы пошел на эту девконф, но чувак... Канкун чувак я не знаю. Я просто не знаю о людях кто хочет что бы только это было в их жизни. Реально посмотреть на вещи. Три дня, ты хорошо, и затем ты пора валить отсюда. У меня есть другие вещи в жизни.
 
 **synth**
-"Snowboarding"
+"Сноубординг"
 
 **christian**
-Yea exactly [laughs]
+Ага точно [смеется]
 
 **synth**
-How hard is it to get onto Polo? I can't even get a hold of anyone on Polo at this point.
+Как тяжело выйти на Полонекс? Я не могу даже связаться с кем либо с Поло на текущее время.
 
 **christian**
-Dude let me tell you a story about Polo. I've been waiting about six months for my ticket to be answered.
+Чувак я могу тебе рассказать историю о Поло. Я жду около шести месяцев пока мне ответят на тикет.
 
 **synth**
-[laughs]
+[смеется]
 
 **christian**
-They have like $10,000 of my coins in their master wallet because my friend sent me a transaction. There are only two transactions in that wallet. He had to resend the transaction to pay me again. Like you guys have my fucking coins they are sitting right there like right there you can see it on the blockchain. Who else has a wallet with like twenty eight million fucking AMPs that's Poloniex's fucking wallet. They still have not answered me. I think Polo is a fucking scam dude I'm going to be honest with you.
+У меня застряло монет на $10,000 на их мастер кошельке потому что мой друг отправил мне транзакцию туда. И на этом кошельке только две транзакции. Ему пришлось пересылать мне деньги по новой. Типа, парни, мои долбаные монеты они сидят прям тут их можно видеть на блокчейне. У кого еще есть кошелек с двадцатью восьмью миллионами долбаных AMP это Полонекса долбаный кошелек. Они до сих пор не ответили мне. Я думаю Поло это долбаный развод чувак Я буду с тобой честен.
 
 **evan**
-I think it is.
+Я думаю что это так.
 
 **synth**
-I think they're all... like most of them are scams. One exchange wants like $250,000 to list a coin.
+Я думаю что они все... большенство из них не чисты на руку. Одна обменка просит $250.000 за то что бы выставить монету.
 
 **christian**
-I know Kraken is like that, you have to pay Kraken up to get on Kraken. You have to pay Kraken 150 Gs to get listed on there. Have you talked to the guys at Bittrex?
+Я знаю что Кракен так делает, ты платишь Кракену наперед что бы попасть на их платформу. Тебе нужно заплатить Кракену 150 тыщь что бы они выставили. Ты пробовал говорить с пацанами из Битрекс?
 
 **synth**
 We were scheduled to be listed, but then the SEC shit happened--
+
 
 **christian**
 --Yea you have to do some paperwork with them
