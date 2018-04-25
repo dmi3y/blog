@@ -477,7 +477,7 @@ Substratum... ты же знаешь, что я не должен говорит
 Паршивый скам, вот почему
 
 **synth**
-И это очень забавно, потому что я видел, как один из них попал в первую десятку или что-то в этом роде. Они даже не сделали ICO. У них не было ICO, не было пре-ICO. Они просто продали монеты некоторым людям и положили их на Bittrex и торговали ими, и вроде как миллиард долларов или что-то в этом роде. Какая-то компания, о которой я никогда не слышал. И гм, вроде: «У нас есть масштаб!» но у них нет пользователей и прочего, почему это стоит миллиард долларов? Вот что происходит, люди собираются надуть пузырь, они собираются инвестировать в спекулятивные вещи, если маркетинг хорош. Затем, прежде чем пузырь лопнет, когда он близок к своему «пику», умные деньги начнут перемещать все свои активы в монеты с фактической стоимостью. Как у вас есть угольная шахта, у вас есть золотая жила, у вас есть серебряная шахта, вы продаете песок для монет. У вас есть интернет-провайдер, распределенная коммунальная компания, у вас есть фактические солнечные батареи. Им потребуется физическая инфраструктура, такая как залог, который фактически обеспечивает эти монеты. Тогда у нас будет пузырь в активах или товарных монетах, потому что всем этим деньгам некуда бежать. Или вот, деньги вливаются в биткойн. Если вы купили биткойн за копейки, и он идет до шести тысяч долларов, вы не можете продать на сто пятьдесят миллионов долларов Биткойна. Даже не сможете разобраться с налогом. Они не знают, придется ли им платить 30% налог, 10% налог или 15% налог, они предпочитают сидеть на биткойне. Никто на самом деле не продает монеты. Это произощло, они заработали деньги, и они просто не хотят иметь дело с проблемами, связанными с превращением их в бумажные деньги.
+И это очень забавно, потому что я видел, как один из них попал в первую десятку или что-то в этом роде. Они даже не сделали ICO. У них не было ICO, не было пре-ICO. Они просто продали монеты некоторым людям и положили их на Bittrex и торговали ими, и вроде как миллиард долларов или что-то в этом роде. Какая-то компания, о которой я никогда не слышал. И гм, вроде: «У нас есть масштаб!» но у них нет пользователей и прочего, почему это стоит миллиард долларов? Вот что происходит, люди собираются надуть пузырь, они собираются инвестировать в спекулятивные вещи, если маркетинг хорош. Затем, прежде чем пузырь лопнет, когда он близок к своему «пику», умные деньги начнут перемещать все свои активы в монеты с фактической стоимостью. Как у вас есть угольная шахта, у вас есть золотая жила, у вас есть серебряная шахта, вы продаете песок для монет. У вас есть интернет-провайдер, распределенная коммунальная компания, у вас есть фактические солнечные батареи. Им потребуется физическая инфраструктура, такая как залог, который фактически обеспечивает эти монеты. Тогда у нас будет пузырь в активах или товарных монетах, потому что всем этим деньгам некуда бежать. Или вот, деньги вливаются в биткойн. Если вы купили биткойн за копейки, и он идет до шести тысяч долларов, вы не можете продать на сто пятьдесят миллионов долларов Биткойна. Даже не сможете разобраться с налогом. Они не знают, придется ли им платить 30% налог, 10% налог или 15% налог, они предпочитают сидеть на биткойне. Никто на самом деле не продает монеты. Это произошло, они заработали деньги, и они просто не хотят иметь дело с проблемами, связанными с превращением их в бумажные деньги.
 
 **christian**
 Это не совсем так. Дело в огромной проблеме, что нет движения денег. Оборота нет, экономики нет. Хорошо, у тебя целая груда дерьма, круто. Вы собираетесь оборачивать их? Нет, нет? Хорошо, тогда и я не буду
@@ -658,84 +658,84 @@ Substratum... ты же знаешь, что я не должен говорит
 Я знаю что Кракен так делает, ты платишь Кракену наперед что бы попасть на их платформу. Тебе нужно заплатить Кракену 150 тыщь что бы они выставили. Ты пробовал говорить с пацанами из Битрекс?
 
 **synth**
-We were scheduled to be listed, but then the SEC shit happened--
+Мы уже запланировали листинг, но Комиссия по ценным бумагам и биржам выпустила этот мусор--
 
 
 **christian**
---Yea you have to do some paperwork with them
+--Ага теперь нужно заполнять бумаги с ними
 
 **synth**
---and like 30 coins that were supposed to get listed got cancelled and then Bill was like being evasive and disappeared.
+--и 30 монет которые должны были быть выставлены были отменены и после этого Бил стал уклончив и вскоре пропал.
 
 **christian**
-You have to talk to like Julian or that other lady. They are doing more compliance shit now like, "Is this legit? Do you have developers?--
+Тебе нужно поговорить с Хулианом или этой другой девушкой. Они теперь больше занимаются соблюдением юридического мусора вроде, "Это законно? У вас есть разработчики?"--
 
 **synth**
--- [laughs] "Do you have developers, do you have a blockchain?" Most of these coins don't--
+-- [смеется] "У вас есть разработчики, у вас есть блокчейн?" У большинство из этих монет не имеют--
 
 **christian**
---"Oh you do have developers. Is it a security? Oh it isn't a security? ok. Oh you guys actually have a blockchain? ok." You could also try the um.. I could put you in touch with the guys in charge of the exchange in Switzerland. There's not a lot of liquidity on it yet but that's a solid fucking team behind that. That's not a bullshit squad. I mean let me look up the volume on the exchange right now.
+--"О у вас есть разработчики. Как насчет безопастности? О это не безопасно? хорошо. О у вас есть блокчейн? Отлично." Ты так же можешь попробовать хм.. Я могу связать тебя с парнями которые управляют обменкой в Швейцарии. У них пока еще не очень большая ликвидность но есть офигенная команда. Это не губошлеп команда. Я хочу посмотреть объемы торгов на этой обменке прямо сейчас.
 
 **synth**
-Oh and they're pumping the volume on these exchanges. For some of these exchanges to keep their ranking in the top 20, they are doing a lot of wash trading. Like I see it, and they are just using bots trading back and forth between each other like a million times a second.
+О да они так же прокачивают объем торгов на этих обменках. На некоторых и них, для того что бы выводить их в топ 20, они отмывают деньги на этих торгах. Это как мне кажется, и это просто боты торгующие туда и обратно между собой миллионы раз в секунду.
 
 **christian**
-I have guys that want to setup arbitrage so bad. It's nothing to move the money, like moving money from the US to...
+У меня есть знакомые которые хотят устроить арбитраж очень сильно. Это нечего кроме перемещения денег, перемещения из Штатов в...
 
 **synth**
-The fees are ridiculous too, like the .1% fee. If you have a million dollars of volume, you are paying tens of thousands dollars a day for a million dollars. And it's on both sides because the buyer pays the fees and the seller. So if you are doing ten million dollars a day in volume, that coin is paying twenty thousand a day on the exchange. So the exchange not only wants $250,000 to get listed, but they want us to pay them like $20,000 a day for volume basically. I'm like fuck that I could just buy like 3 houses.
+Их комиссии так же непомерно смешны, вроде 0.1%. И если у вас объем миллион долларов, то это десятки и сотни тысяч долларов в день с этого миллиона долларов. И это с обеих сторон потому что комиссию платят покупающий и продающий. И если у вас десять миллионов долларов дневного объема, то эта монета выплачивает двадцать тысяч в день обменке. И так эта обменка не только хочет $250.000 для того что бы выставить нас на продажу, они так же хотят что бы мы платили им $20.000 в день за объем торгов. И я, шло бы это все, я могу просто купить 3 дома.
 
 **christian**
-Yea exactly, I mean there's the guys at Bithumb.
+Ага эт точно, я знаю этих парней с Bithumb.
 
 **synth**
-Yea I like Bithumb.
+Да мне нравиться Bithumb.
 
 **christian**
-There's HitBTC that came out of nowhere. They really stepped up their shit.
+И есть HitBTC которая появилась из неоткуда. И они наступили на свое дерьмо.
 
 **synth**
-Is that real?
+На самом деле?
 
 **christian**
-Yea I think, maybe. Who knows dude lets be real. I can't talk shit if I don't fucking know em. HitBTC is there. Um Kraken.. I mean you're just dropping down from there. Why don't you talk to the guys at Liqui?
+Ага так я думаю, может быть. Кто знает чувак, давай по чесноку. Я не могу опускать кого либо если я не знаю их. Есть HitBTC. Хм Kraken.. Я хочу просто закончить на этом. Почему бы вам не поговорить с парнями из Liqui?
 
 **synth**
-Liqui is good yea.
+Liqui хорошо конечно.
 
 **christian**
-Liqui is not terrible, like eighteen million dollars a day that's good.
+Liqui не такие ужасные, вроде девятнадцать миллионов долларов оботота в день это хорошо.
 
 **synth**
-We are doing this OTC thing for Skyledger so when the coins launch on Skyledger, that coin is going to be liquid and traded from day one. They are going to trade their coin and five minutes later they are going to have an order book. These coins like, they raise one hundred and fifty million dollars in an ICO and they cannot get listed on any exchange at all. It's retarded.
+Мы собираемся запустить этот OTC штуку для Skyledger и когда мы запустим монеты на Skyledger, они будут достаточно ликвидны и будут торговаться с первого дня. И когда придет время запускать торги, через пять минут книга заказов будет готова. А эти монеты, они поднимают сотню и пятьдесят миллионов долларов через ICO и они не могут быть выставлены не не одной обменке вообще. Это тупо.
 
 **christian**
-Yea I mean I did message Bill one day and I was like how much does it cost to get listed on Bittrex like 40 Gs? He was like, "No, we don't fucking need your money, we need you to be fucking legit so our ass is covered." Like that's where I think it's going, the guys running these exchanges have so much money now.
-These guys are running Bithumb like how much fucking money do you need. "I've got five hundred million dollars cash" like alright dude chill.
+Ага я отправил сообщение Биллу однажды и я спросил сколько это стоит для того что бы быть выставленным на Bittrex, хватит 40 штук? Он ответил, "Нафиг мне не нужны ваши деньги, мне нужно что бы вы соблюдали долбаные законы так что бы наш зад был прикрыт." Это то куда это идет сейчас я думаю, эти парни заведующие обменками сейчас держат столько много денег.
+Эти парни управляющие Bithumb, сколько долбаных денег вам нужно. "Я держу пять сотен миллионов долларов наличкой" отлично остынь чувак.
 
 **synth**
-Look at their volume. If their volume is real and they are getting .02% on each trade on the bid and ask and their volume isn't fake. I think that they are rebating the fees for special accounts and institutional investors and they lie and say that they aren't doing that. But if you take the volume and like a billion dollars, and look at the fees they would pay if the fees are actually paid, then you have this exchange that's making ten million dollars a day. It's like this four person exchange is not making four million dollars a day. I think the volume is there just to get the smucks in to buy. Like, "Oh look at this volume, people are trading! Buy this!" For some of these exchanges like HitBTC, if you don't have volume, they have a volume expert and you can go to this guy... like I talked to one of these guys. Not the one from HitBTC, but this was very funny. He wanted three million dollars in coins and all he does is just sit there and day trade on the coin and create volume. I was like, "Why would I give you three million dollars to sit there and day trade?" And he was like well that's what the other coins are giving him so he wouldn't do less than that and he has like four people asking him.
+Посмотри на их объем. Если их объем действительный и они получают .02% на каждом торге с покупки и с продажи и их объем не обман. Я думаю что они делают скидки на комиссии для специальных аккаунтов и институциональных инвесторов и они врут когда говорят то что они не делают этого. Но если ты возьмешь объем скажем биллион долларов, и все эти комиссии, в случае если они выплачиваются, то эти обменки делают десять миллионов в день. Я думаю что этот объем на самом деле искусственный для того что бы заманить покупателей. Вроде, "О глянь на эти объемы, люди торгуют! Покупай это!" Для некоторых из этих обменок как HitBTC, если у вас нет объема, они держат этого парня спеца по объемам и ты можешь связаться с ним... я говорил с одним из этих спецов. Не с тем который с HitBTC, но все равно это было очень смешно. Он просил монет на три миллиона долларов и все что он делает просто сидит и торгует днями напролет для того чтобы нагнать объем. Я интересуюсь, "Для чего бы я дал тебе три миллиона долларов и позволил дневную торговлю с ними?" И он отвечает что типа это то что другие дают ему и то что он не согласиться на меньшее и что у него есть четыре человека которые просят его работы.
 
 **christian**
-That is fucking insane dude.
+Чувак это долбанутся и не встать.
 
 **synth**
-[laughs]
+[смеется]
 
 **christian**
-It makes complete sense but like what the fuck are we doing out here guys. Of course this shit happens, like duh, but it's just like. I would fuck up the trade so bad like, I'd make the price go down 80%.
+Это имеет смысл, но что за фигней мы страдаем тут пацаны. Конечно это дерьмо случается, аага, но это просто. Я бы спустил торги настолько, так что бы цена упала на 80%.
 
 **synth**
-[laughs] Yea just like dumping em, and he probably wants a kick back from the exchange for the volume fees. Like, "I'm giving you ten million dollars in volume, how much are you giving me?"
+[смеется] Ага он просто сливает их, и возможно еще просит процент с обменок с их комисии за большой объем. Вроде,  "Я создаю объем в десять миллионов долларов, сколько я получу за это?"
 
 **christian**
-That's actually a good point though. It is curious how some of these coins have so much volume. Like $26,000,000 in volume, like Vertcoin.
+Это кстати хорошо подмечено. Интересно как некоторые из этих монет держат такой большой объем. Как $ 26.000.000, вроде Vertcoin.
 
 **synth**
-Yea Vertcoin, my favorite coins is Veriteseum. This guy created four hundred million coins and put them in his pocket, then he gave like 2% of the coins out to the community and he gets an exchange to list it. And he's like, "Look I have four hundred million dollars of bling!!" He's really cool, but it's just funny..
+Ага Vertcoin, мой любимый проект из таких Veriteseum. Этот парень создал четыре сотни миллионов монет и положил их себе в карман, затем он отдал 2% сообществу и выставил монеты на обменки. И он типа, "Глянька у меня четыре сотни миллиона долларов шику!!" Он на самом деле крут, но это просто смешно..
 
 **christian**
-He is a cool guy. I did an interview with him and he sounded pretty knowledgeable. Everyone I've talked to about that project says it's a scam like look at the website.
+Он крутой пацан. Я проводил интервью с ним и он очень знающий. Все с кем я говорил по поводу этого проекта говорят что это обман, вроде ты только посмотри на вебсайт.
 
 **synth**
 He knows how to play the game though. Like we could do that, "Oh look Skycoin is sixteen billion dollars!" You just create a bunch of coins and then trade them back and forth between yourself at like $3. It's like "Ohh look we have thirty billion dollars." I mean that's what Ripple does and these other coins.
